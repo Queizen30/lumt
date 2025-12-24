@@ -17,4 +17,8 @@ title: Useful Minecraft tools
 # Mod loaders and server software
 
 ## Mod loaders
-- [Fabric](https://fabricmc.net) - Fabric mod loader & ecosystem
+- [Fabric](https://fabricmc.net) - Fabric mod loader & ecosystem (Dev Note: I recommend this over Forge)
+- [Forge](https://files.minecraftforge.net) - Forge mod loader downloads & versions
+- [Quilt](https://quiltmc.org) - Quilt project (fork/extension of Fabric)
+
+# 
