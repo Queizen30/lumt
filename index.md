@@ -26,4 +26,8 @@ title: Useful Minecraft tools
 - [Spigot](https://spigotmc.org) - Spigot project & plugin community
 - [Sponge](https://spongepowered.org) - Sponge project (servers/plugins)
 - [GeyserMC](https://geysermc.org) - Java/Bederock translation layer
-- [
+- [ViaVersion](https://viaversion.com) - ViaVersion/ViaBackwards for version compatibility
+- [Leaves](https://leavesmc.org) - Fork of paper aimibg for fixing broken vanilla properties
+- [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) - High performance fork of paper
+- [Purpur](https://purpurmc.org) - Fork of paper with more customizability
+- 
