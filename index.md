@@ -108,3 +108,9 @@ title: ㅤ
 - [How to install mods and mod loader](https://www.modland.net/minecraft/tutorials/how-to-install-minecraft-mods-detailed-guide.html) - A good guide that walks you through installing mods and a mod loader for the first time
 - [How to install a version](https://minecraft.wiki/w/Tutorial:Installing_a_version) - How to play old or future versions of minecraft
 - [How to install Minecraft Preview](https://minecraft.wiki/w/Tutorial:Bedrock_Edition_development_versions) - Installing the preview version (BE)
+
+# Community
+
+## Minecraft subreddits
+- [r/Minecraft](https://www.reddit.com/r/Minecraft/) - Everything from News to Addons to Discussions
+- [r/MinecraftMemes](https://www.reddit.com/r/MinecraftMemes/) - Well, memes. _What a surprise!_
