@@ -1,0 +1,16 @@
+- title: "Getting started"
+  url: /getting-started/
+- title: "Tools"
+  url: /tools/
+  children:
+    - title: "Servers"
+      url: /tools/servers/
+    - title: "Maps"
+      url: /tools/maps/
+- title: "Mods"
+  url: /mods/
+  children:
+    - title: "Fabric mods"
+      url: /mods/fabric/
+    - title: "Forge mods"
+      url: /mods/forge/

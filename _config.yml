@@ -1,13 +1,22 @@
 title: "List of useful Minecraft websites"
 description: "A list of useful minecraft websites, tools, software, mods, ..."
-remote_theme: jekyll/minima
+# Use Moonwalk as a remote theme
+remote_theme: "abhinavs/moonwalk"
+
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+
 markdown: kramdown
 
-minima:
-  skin: dark
+# If GitHub Pages serves from a repo subpath, uncomment and set:
+# baseurl: "/mc-tools-list"
+# url: "https://Queizen30.github.io"
 
+# Moonwalk controls its own styles; remove theme: when using remote_theme
+theme: null
+
+# Exclude things from the site build
 exclude:
   - README.md
   - .github
