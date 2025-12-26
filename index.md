@@ -60,6 +60,19 @@ title: Useful Minecraft tools
 - [SEUS Shaders](https://sonicether.com/seus) - (Sonic Ether’s Unbelievable Shaders)
 - [Sildurs Shaders](https://sildurs-shaders.github.io/)
 - [TexturePack.net](https://resourcepack.net/category/shader-packs/)
+- [Modrinth](https://modrinth.com/discover/shaders)
+- [Curseforge](https://www.curseforge.com/minecraft/search?&class=shaders)
+
+## Plugins
+- [Curseforge](https://www.curseforge.com/minecraft/search?&class=bukkit-plugins) - Bukkit
+- [Modrinth](https://modrinth.com/discover/plugins)
+
+
+## Bedrock Addons
+- [Curseforge](https://www.curseforge.com/minecraft-bedrock) - Addons, Texture packs, scripts, maps and skins
+- [Chunk](https://chunk.gg) - Marketplace, but better
+- [Bedrock Explorer](https://bedrockexplorer.com/) - Same as Chunk (see above)
+- [MCPEDL](https://mcpedl.com/) - Bedrock addons, etc.
 
 # Commands and Data Pack generators
 
@@ -76,3 +89,4 @@ title: Useful Minecraft tools
 - [Advancement Generator](https://advancements.thedestruc7i0n.ca/) - Advancement data pack generator
 - [Vanilla Tweaks](https://vanillatweaks.net/) - Generators for data packs, crafting tweaks and texture packs
 - [MCCreator](https://mcreator.net/about/minecraft-data-pack-maker) - Create Minecraft data packs (software)
+- [Data Pack Frameworks](https://ayfri.com/articles/datapack-generators/) - Blog post about datapack "frameworks"? (i have no idea, but i'll just list it here)
