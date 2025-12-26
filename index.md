@@ -92,3 +92,10 @@ title: ㅤ
 - [Vanilla Tweaks](https://vanillatweaks.net/) - Generators for data packs, crafting tweaks and texture packs
 - [MCCreator](https://mcreator.net/about/minecraft-data-pack-maker) - Create Minecraft data packs (software)
 - [Data Pack Frameworks](https://ayfri.com/articles/datapack-generators/) - Blog post about datapack "frameworks"? (i have no idea, but i'll just list it here)
+
+
+# Launcher(s)
+
+## Tutorials for the default launcher
+- [How to launch a custom jar](https://www.minecraftforum.net/forums/support/java-edition-support/1871678-how-to-use-custom-jars-in-the-new-launcher) - How to launch a custom minecraft.jar in the default launcher (maybe outdated)
+- 
