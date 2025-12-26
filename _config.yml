@@ -1,14 +1,14 @@
 title: "List of useful Minecraft websites"
 description: "A list of useful minecraft websites, tools, software, mods, ..."
-# Use remote_theme instead of theme so GitHub Pages fetches a newer Minima that supports `skin`
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
-
-# If you have a custom domain, you can set it here (or remove/leave blank)
-# url: "https://example.com"
-
 markdown: kramdown
 
 minima:
   skin: dark
+
+exclude:
+  - README.md
+  - .github
+  - NOTES.md
