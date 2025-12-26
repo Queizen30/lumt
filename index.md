@@ -107,7 +107,7 @@ title: ㅤ
 - [How to launch a custom jar](https://www.minecraftforum.net/forums/support/java-edition-support/1871678-how-to-use-custom-jars-in-the-new-launcher) - How to launch a custom minecraft.jar in the default launcher (maybe outdated)
 - [How to install mods and mod loader](https://www.modland.net/minecraft/tutorials/how-to-install-minecraft-mods-detailed-guide.html) - A good guide that walks you through installing mods and a mod loader for the first time
 - [How to install a version](https://minecraft.wiki/w/Tutorial:Installing_a_version) - How to play old or future versions of minecraft
-- [How to install Minecraft Preview](https://minecraft.wiki/w/Tutorial:Bedrock_Edition_development_versions) - Installing the preview version (Bedrock Edition)
+- [How to install Minecraft Preview](https://minecraft.wiki/w/Tutorial:Bedrock_Edition_development_versions) - Installing the preview version (BE)
 
 # Community
 
@@ -121,3 +121,9 @@ title: ㅤ
 - [r/realms](https://www.reddit.com/r/realms/) - Everything about BE Realms (the official server hosting)
 - [r/MinecraftBuddies](https://www.reddit.com/r/MinecraftBuddies/) - Find small groups of friends to play Minecraft with
 - [r/CompetitiveMinecraft](https://www.reddit.com/r/CompetitiveMinecraft/) - Discussions about all forms of PvP
+- [r/MCPE](https://www.reddit.com/r/MCPE/) - Everything about Pocket Edition
+- [r/Minecraftbuilds](https://www.reddit.com/r/Minecraftbuilds/) - Showcase your Minecraft builds
+- [r/Minecraftseeds](https://www.reddit.com/r/minecraftseeds/) - Seed sharing community
+- [r/Minecraft_Survival](https://www.reddit.com/r/Minecraft_Survival/)
+- [r/technicalminecraft](https://www.reddit.com/r/technicalminecraft/) - Everyting from
+- [More...](https://www.reddit.com/r/Minecraft/wiki/related/)
