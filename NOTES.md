@@ -11,3 +11,6 @@ ADD:
 
 ## Data Pack generators
 - [Misode](https://misode.github.io/) - Data Pack generators and Minecraft tools
+
+IDEAS:
+https://mc-packs.net/
