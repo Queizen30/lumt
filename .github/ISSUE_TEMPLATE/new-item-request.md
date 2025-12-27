@@ -8,6 +8,7 @@ assignees: Queizen30
 ---
 
 Website URL: <website link here when present>
+Category: <category here>
 
 - [] Does not contain malware
 - [] Fits the purpose of the list

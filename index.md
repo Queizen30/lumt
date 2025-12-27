@@ -13,6 +13,7 @@ If you have any more items to add, found misstakes or think something fits bette
 - [Minecraft Wiki](https://minecraft.wiki) - Unofficial game documentation, tutorials, etc. (Tip: use mc.wiki for quick entering)
 - [Tutorials](https://minecraft.wiki/w/Tutorials) - Lots of tutorials from the Minecraft Wiki (see above)
 - [Old Wiki](https://minecraft.fandom.com) - Old wiki spammed with ads and containing outdated information
+- [MC Property Encyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/) - View propertys of blocks,entitys or items
 
 ## Development
 - [PaperMC Docs](https://docs.papermc.io) - Documentation for [PaperMC](https://papermc.io)
@@ -172,3 +173,12 @@ If you have any more items to add, found misstakes or think something fits bette
 - [Free hosts](https://myuui.com/) - A list of free hosts
 - [All hosts](https://wisehosting.com/blog/every-minecraft-server-hosting-provider) - A list of many server hosts
 - [Best hosts](https://bestminecraftserverhost.com/) - Find your perfect host
+
+# Games
+
+## Websites
+- [Google](https://www.google.com/search?q=minecraft) - Click on grass block
+- [CraftConnections](https://craftconnections.net/) - Group 4 things in Minecraft that are related
+- [MCdle](https://www.mcdle.net/) - Wordle for Minecraft
+- [Minecraft Classic](https://classic.minecraft.net/) - Play Minecraft 0.0.23a_01 online (Official)
+- [Propertydle](https://joakimthorsen.github.io/MCPropertyEncyclopedia/propertydle/) - Like MCdle but with more categorys
