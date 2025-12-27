@@ -4,7 +4,7 @@ title: Useful Minecraft tools
 
 This list contains about 100 items and took decision and time to find.
 
-If you have any more items to add, found misstakes or think something fits better in another category, etc. , you can open a [Pull Request]()
+If you have any more items to add, found misstakes or think something fits better in another category, etc. , you can open a [Issue](https://github.com/Queizen30/mc-tools-list/issues)
 # Wikis and Knowledgebases
 
 ## Base Game
