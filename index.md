@@ -62,7 +62,7 @@ title: ㅤ
 - [Iris Shaders](https://www.irisshaders.dev/) - Iris + Sodium support
 - [SEUS Shaders](https://sonicether.com/seus) - (Sonic Ether’s Unbelievable Shaders)
 - [Sildurs Shaders](https://sildurs-shaders.github.io/)
-- [Solas Shaders](https://modrinth.com/shader/solas-shader/versions)
+- [Solas Shaders](https://modrinth.com/shader/solas-shader/versions) - (v1.8 is best)
 - [TexturePack.net](https://resourcepack.net/category/shader-packs/)
 - [Modrinth](https://modrinth.com/discover/shaders)
 - [Curseforge](https://www.curseforge.com/minecraft/search?&class=shaders)
@@ -78,7 +78,7 @@ title: ㅤ
 - [Bedrock Explorer](https://bedrockexplorer.com/) - Same as Chunk (see above)
 - [MCPEDL](https://mcpedl.com/) - Bedrock addons, etc.
 
-# Commands and Data Pack generators
+# Data packs, ressource packs, mods and commands
 
 ## Command generators
 - [MCStacker](https://mcstacker.net) - Command generator (functions, bossbars, JSON)
@@ -95,6 +95,8 @@ title: ㅤ
 - [MCCreator](https://mcreator.net/about/minecraft-data-pack-maker) - Create Minecraft data packs (software)
 - [Data Pack Frameworks](https://ayfri.com/articles/datapack-generators/) - Blog post about datapack "frameworks"? (i have no idea, but i'll just list it here)
 
+# Other generators
+- [Moddery](https://ejd799.github.io/moddery/) - Open-source, web-based mod builder
 
 # Launcher(s)
 
