@@ -195,6 +195,8 @@ You can find a list of the contributors [here](/contributors).
 - [Minecraft Classic](https://classic.minecraft.net/) - Play Minecraft 0.0.23a_01 online (Official)
 - [Propertydle](https://joakimthorsen.github.io/MCPropertyEncyclopedia/propertydle/) - Like MCdle but with more categorys
 
+- [Prismarine Web Client](https://prismarinejs.github.io/prismarine-web-client/) - Not really a game, but a Minecraft client running in a browser (not a clone)
+
 # Resource packs
 
 ## Ressource pack generators
@@ -202,8 +204,13 @@ You can find a list of the contributors [here](/contributors).
 
 # Software
 
-## World manipulation
+## Worlds
 - [Worldpainter](https://www.worldpainter.net/) - Map generator
+- [Amulet](https://www.amuletmc.com/) - World editor and converter (Better version of [MCEdit](https://www.mcedit.net/))
+- [MCASelector](https://github.com/Querz/mcaselector) - Select chunks for selection or export
+- [Chunker](https://www.chunker.app/) - World converter
+- [uNmINeD](https://unmined.net/) - World viewer and mapper tool
+- [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a seed
 
 # Skins
 
@@ -254,14 +261,19 @@ You can find a list of the contributors [here](/contributors).
 ## Cheatsheets
 - [Cheatsheets](/cheatsheets/) - A list of cheatsheets i found
 
-## Tools
+## Online Tools
+
+### Worlds
+- [World Size Calculater](https://onlinemo.de/world) - Calculate the disk zize of a world
+- [Cubical](https://cubical.xyz/) - Web based map editor
 
 ### Maps
 - [Chunkbase](https://chunkbase.com) - Seed map
 - [JacobSJO Map](https://map.jacobsjo.eu/) - Chunkbase (see above), but it can read data packs and preview terrain
+- [MCSeedMap](https://mcseedmap.net/) - New version of chunkbase (unofficial)
+- [MCSeeder](https://www.mcseeder.com/) - Display an overwiev of a seed online
 
 ### Building
 - [Pixel Circel Generator](https://donatstudios.com/PixelCircleGenerator) - Generate perfect circels in all sizes
-- [Cubical](https://cubical.xyz/) - Web based map editor
 
 
