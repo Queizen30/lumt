@@ -13,6 +13,3 @@ exclude:
   - .github
   - NOTES.md
   - CNAME
-
-titles_from_headings:
-  enabled: false
