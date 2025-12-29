@@ -9,6 +9,26 @@ If you have any more items to add, found misstakes or think something fits bette
 
 You can find a list of the contributors [here](/contributors).
 
+## Contents
+
+- [Wikis and Knowlegebases](#wikis-and-knowledgebases)
+    - [Base Game](#base-game)
+    - [Development](#development)
+    - [Archives](#archives)
+- [Mod loaders and server software](#mod-loaders-and-server-software)
+    - [Mod loaders](#mod-loaders)
+    - [Server software](#server-software)
+- [Content download sites](#content-download-sites) (can anyone please find a better name?)
+    - [Mods](#mods)
+    - [Texture packs](#texture-packs)
+    - [Shaders](#shaders)
+    - [Plugins](#plugins)
+    - [Modpacks](#modpacks)
+    - [Bedrock Addons](#bedrock-addons)
+- [Data packs, ressource packs, mods and commands](#data-packs-ressource-packs-mods-and-commands)
+    
+
+
 # Wikis and Knowledgebases
 
 ## Base Game
