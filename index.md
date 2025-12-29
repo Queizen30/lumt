@@ -9,6 +9,8 @@ If you have any more items to add, found misstakes or think something fits bette
 
 You can find a list of the contributors [here](/contributors).
 
+_This website is still in beta. It's not complete yet. Please report bugs or suggestions [here](https://l.qu30.qzz.io/l/gh/queizen30/mc-tools-list/i)._
+
 ## Contents
 
 - [Wikis and Knowlegebases](#wikis-and-knowledgebases)
