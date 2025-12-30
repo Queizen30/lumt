@@ -19,7 +19,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Mod loaders and server software](#mod-loaders-and-server-software)
     - [Mod loaders](#mod-loaders)
     - [Server software](#server-software)
-- [Content download sites](#content-download-sites) (can anyone please find a better name?)
+- [Content librarys](#content-librarys) (can anyone please find a better name?)
     - [Mods](#mods)
     - [Texture packs](#texture-packs)
     - [Shaders](#shaders)
@@ -95,6 +95,8 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [MCICONS](https://mcicons.ccleaf.com/) - Full-resolution item icons
 - [MC Titles](https://mctitles.com/) - Minecraft-styled fonts and official logos
 - [Omniarchive](https://omniarchive.uk/) - Community that focuses on preserving official Minecraft content
+- [MC Mod Archive](https://mcmodarchive.femtopedia.de/) - Archve of lost, old and forgotten mods (Various other things can be found on their [discord](https://discord.gg/WuexGpP))
+- [Minecraft Archive Project](https://map.crummy.com/) - Huge archive containing mods, worlds, screenshots, skins, texture packs, forum posts, ... 
 
 # Mod loaders and server software
 
@@ -120,7 +122,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [More...](https://lestegii.github.io/server-software/)
 - [BE Server Software](https://wiki.bedrock.dev/servers/server-software.html) - List of Bedrock Server Software
 
-# Content download sites
+# Content librarys
 
 ## Mods
 - [Curseforge](https://curseforge.com/minecraft)
