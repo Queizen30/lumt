@@ -13,3 +13,4 @@ exclude:
   - .github
   - NOTES.md
   - CNAME
+  - LICENSE
