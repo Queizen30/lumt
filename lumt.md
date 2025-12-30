@@ -69,6 +69,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
         - [Maps](#maps)
         - [Building](#building)
         - [Enchanting and anvils](#enchanting-and-anvils)
+        - [Coordinates](#coordinates)
         - [Other](#other-1)
 - [For the devs](#for-the-devs)
     - [APIs](#apis)
@@ -269,6 +270,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [MCdle](https://www.mcdle.net/) - Wordle for Minecraft
 - [Minecraft Classic](https://classic.minecraft.net/) - Play Minecraft 0.0.23a_01 online (Official)
 - [Propertydle](https://joakimthorsen.github.io/MCPropertyEncyclopedia/propertydle/) - Like MCdle but with more categorys
+- [Minecraft Quiz](https://minecraftquiz.com/) - Take Minecraft quizzes
 
 - [Prismarine Web Client](https://prismarinejs.github.io/prismarine-web-client/) - Not really a game, but a Minecraft client running in a browser (not a clone)
 
@@ -276,6 +278,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 
 ## Resource pack generators
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) - QoL texture pack generator
+- [Minecraft Painting Generator](https://www.mcpaintings.com/) - Generate Minecraft paintings from your own images and view them in-game
 
 # Software
 
@@ -381,6 +384,9 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 
 ### Graphis and design
 - [Wallpaper Generator](https://minecraft.novaskin.me/wallpapers) - Create wallpapers with you skin on them
+
+### Coordinates
+- [BlockTools](https://blocktools.deep-orbit.com/) - Direction Finder, Nether Portacl Calculator, Block Distance and other things
 
 ### Other
 - [MC Utils](https://mcutils.com/) - Community powered Minecraft utilities for developers, builders and players
