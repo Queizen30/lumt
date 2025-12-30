@@ -5,5 +5,5 @@ You can view the list [here](https://lumt.qu30.qzz.io/lumt).
 
 Every update, chanchelog can be found [here](#). (Coming soon...)
 
-> [!WARNING]
+> [!IMPORTANT]
 > This project is licensed under [GNU General Public License v3.0](/COPYING).
