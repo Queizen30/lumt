@@ -8,4 +8,4 @@ Every update, chanchelog can be found [here](#). (Coming soon...)
 > [!IMPORTANT]
 > This project is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](/LICENSE).
 > 
-> (C) 2025 Quirin Wittmann
+> © 2025 Quirin Wittmann
