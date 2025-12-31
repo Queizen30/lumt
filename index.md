@@ -11,8 +11,9 @@ _NOTE: This article is not complete yet._
 ## What is this?
 
 This is a list of useful Minecraft tools, software, websites, [cheatsheets](/cheatsheets/), etc. This website also contains a [blog](/a/) (still in development) and other small pages.
+This website has evolved far beyond just a list.
 
 ## Why?
 
-A few days ago (for me december 2025) I was searching for Minecraft websites (when im bored or just feel like somethings missing I just search for neardy websites), but I didn't really find a list. (Although there are [a few](a/other-lists)) Now, if you looked at this list, you might say: "But there are a few of them, so why did you make this list?"
-And thats _kinda_ true, but only the first two links are real list with more than 20 items and have different items and core ideas, so I just wanted to _merge_ them and add more items. (And I did, on 30th december 2025 the list contains 157 items)
+A few days ago (for me, December 2025) I was searching for Minecraft websites — when I'm bored or just feel like something's missing I search for nerdy websites — but I didn't really find a list. (Although there are [a few](a/other-lists).) If you look at this list, you might say: "But there are a few of them, so why did you make this list?"
+And that's _kinda_ true: only the first two links are actual lists with more than 20 items and different core ideas, so I wanted to _merge_ them and add more items. (And I did: as of 30 December 2025 the list contains 157 items!)
