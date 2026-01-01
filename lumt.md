@@ -97,7 +97,10 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [MC Titles](https://mctitles.com/) - Minecraft-styled fonts and official logos
 - [Omniarchive](https://omniarchive.uk/) - Community that focuses on preserving official Minecraft content
 - [MC Mod Archive](https://mcmodarchive.femtopedia.de/) - Archve of lost, old and forgotten mods (Various other things can be found on their [discord](https://discord.gg/WuexGpP))
-- [Minecraft Archive Project](https://map.crummy.com/) - Huge archive containing mods, worlds, screenshots, skins, texture packs, forum posts, ... 
+- [Minecraft Archive Project](https://map.crummy.com/) - Huge archive containing mods, worlds, screenshots, skins, texture packs, forum posts, ...
+- [Eimer Archive](https://eimerarchive.org/) - Archive focusing on server software and plugins
+- [Craft Bukkit Archive](https://drive.google.com/drive/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M?resourcekey=0-8b3rRFwKJECvcgSR78vm9g) - Archive containing CraftBukkit Builds
+- [MCVersions](https://mcversions.net/) - Almost all Minecraft `.jar`s
 
 # Mod loaders and server software
 
@@ -107,6 +110,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Quilt](https://quiltmc.org) - Quilt project (fork/extension of Fabric)
 - [LiteLoader](https://www.liteloader.com/) - LiteLoader project
 - [NeoForge](https://neoforged.net/) - Modern fork of forge
+- [Rift](https://www.curseforge.com/minecraft/mc-mods/rift) - JE Mod loader for 1.13.x (including snapshots)
 
 - [Project Amethyst](https://github.com/FrederoxDev/Amethyst) - Mod loader for BE (Windows)
 - [Horizon](https://icmods.mineprogramming.org/) - Mod loader for BE (Android)
