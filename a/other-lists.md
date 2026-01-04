@@ -1,5 +1,6 @@
 ---
 title: Other lists
+layout: post
 ---
 
 This is a list of other lists of useful Minecraft tools. (A bit confusing, I know.)
