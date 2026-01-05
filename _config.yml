@@ -1,6 +1,8 @@
 title: "LUMT - Useful Minecraft Tools"
 description: "A list of useful minecraft websites, tools, software, mods, ..."
-theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 markdown: kramdown
 
 minima:
