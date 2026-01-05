@@ -1,4 +1,7 @@
+<center>
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/Queizen30/lumt/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/Queizen30/lumt/actions/workflows/jekyll-gh-pages.yml)
+![GitHub License](https://img.shields.io/github/license/queizen30/lumt)
+</center>
 
 # LUMT
 A list of useful Minecraft tools/websites/programms/etc.
