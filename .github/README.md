@@ -1,6 +1,6 @@
 [![Workflow Status](https://github.com/Queizen30/lumt/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/Queizen30/lumt/actions/workflows/jekyll-gh-pages.yml) [![License](https://img.shields.io/github/license/queizen30/lumt)](LICENSE) [![Repo badge](https://img.shields.io/badge/queizen30-lumt-blue?logo=github)](#) [![Pages site](https://img.shields.io/badge/pages-lumt.qu30.qzz.io-blue?logo=github)](https://lumt.qu30.qzz.io) ![GitHub last commit](https://img.shields.io/github/last-commit/queizen30/lumt)
 
-![Lumt logo](https://raw.githubusercontent.com/Queizen30/lumt/main/assets/media/logo-square.webp)
+![Lumt logo](https://raw.githubusercontent.com/Queizen30/lumt/main/assets/media/logo-media.webp)
 
 # LUMT
 A list of useful Minecraft tools/websites/programms/etc.
