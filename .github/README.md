@@ -2,7 +2,7 @@
 
 ![Lumt logo](https://raw.githubusercontent.com/Queizen30/lumt/main/assets/media/logo-social.webp)
 
-# LUMT
+
 A list of useful Minecraft tools/websites/programms/etc.
 
 You can view the list [here](https://lumt.qu30.qzz.io/lumt).
