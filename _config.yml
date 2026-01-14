@@ -1,8 +1,5 @@
 title: "LUMT - Useful Minecraft Tools"
 description: "A list of useful minecraft websites, tools, software, mods, ..."
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
 markdown: kramdown
 
 minima:
@@ -19,3 +16,10 @@ exclude:
   - NOTES.md
   - CNAME
   - LICENSE
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

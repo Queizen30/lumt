@@ -1,6 +1,5 @@
 ---
 title: Blog
-layout: home
 ---
 
 ### Welcome!

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How to include HTML in your Jekyll markdown files | LUMT - Useful Minecraft Tools</title>
+
+<link rel="icon" href="/data/media/logo-circle.webp">
+
+<link rel="stylesheet" href="/data/css/main.css">
+<body>
+    <div class="main-container">
+        <div class="nav-container">
+    <div><p><img src="/data/media/logo-circle.webp" alt="logo" width="30" height="30">LUMT - Useful Minecraft Tools</p></div>
+    <h4><strong>Primary</strong><br></h4>
+    <a href="/">Home</a>
+    <a href="/about.md">About</a><br>
+    <a href="/lumt">LUMT</a><br>
+    <a href="/a/">Blog</a>
+
+    <h4><strong>Other</strong></h4>
+</div>
+        <div class="content-container">
+        <h1>How to include HTML in your Jekyll markdown files</h1>
+        <h4 id="hey-there-and-welcome-to-this-tutorial">hey there and welcome to this tutorial!</h4>
+
+<p>In this tutorial (well it kinda isn’t a tutorial) we will cover on how to include HTML in your <code class="language-plaintext highlighter-rouge">.md</code> files when you use <a href="https://jekyllrb.com/">Jekyll</a>. When you embed HTML in your Markdown (or in this case <a href="https://kramdown.gettalong.org/">kramdown</a> which is the default Markdown renderer used by Jekyll) magic happens, e.g. you can add copy buttons for your code blocks (yeah those aren’t built in in most themes) or embed youtube videos.</p>
+
+<h4 id="and-how-can-i-do-it">and how can i do it?</h4>
+
+<p>Well, it’s simple. <em>very</em> simple. <em>very very</em> simple. <em>very very very si…</em></p>
+
+<h5 id="i-just-want-to-know-how-to">i just want to know how to!</h5>
+
+<p>You just write it. Thats because the default parser and converter of Jekyll, <code class="language-plaintext highlighter-rouge">kramdown</code> (Fun Fact: the actual name of it is without capital letters), converts itself, Markdown, GFM (<a href="https://github.github.io/gfm/">Github Flavored Markdown</a>) and HTML into <code class="language-plaintext highlighter-rouge">.html</code> files.</p>
+
+<p>So this is not really a tutorial but rather a documentation about it. (Very samll documentation though)</p>
+
+<h2 id="examples">Examples</h2>
+
+<p>The following are examples on what HTML/JS in your Jekyll site can do:</p>
+
+<h4 id="embed-youtube-videos">Embed youtube videos:</h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F8iOU1ci19Q?si=MfBiNvL1_ncfUJ_v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<h4 id="create-copy-buttons-for-your-code">Create copy buttons for your code</h4>
+<pre><code id="code">console.log('Hello, world!')</code></pre>
+<p><button onclick="navigator.clipboard.writeText(document.getElementById('code').innerText)">Copy</button></p>
+
+        <script src="https://giscus.app/client.js"
+        data-repo="queizen30/lumt"
+        data-repo-id="R_kgDOQuT8vg"
+        data-category="General"
+        data-category-id="DIC_kwDOQuT8vs4C0Z1N"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+        </div>
+    </div>
+</body>
+
+</html>

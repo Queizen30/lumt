@@ -1,0 +1,21 @@
+# are you a human? if so, why are you looking at this?
+
+# last updated 2026-01-05 (YYYY-MM-DD)
+Sitemap: https://lumt.qu30.qzz.io/assets/misc/sitemap.xml
+
+# default: allow non-AI crawlers
+User-agent: *
+Allow: /
+
+# block all crawlers that are purely used for ai training
+User-agent: GPTBot
+User-agent: OpenAI
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: PerplexityBot
+User-agent: PhindBot
+User-agent: cohere-ai
+User-agent: laion-huggingface-processor
+User-agent: LAIONDownloader
+User-agent: img2dataset
+Disallow: /
