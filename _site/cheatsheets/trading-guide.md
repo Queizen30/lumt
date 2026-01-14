@@ -1,2 +1,0 @@
-![Trading Guide](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png?6e40e&format=original)
- [Source](https://minecraft.wiki/w/File:Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)
