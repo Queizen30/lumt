@@ -5,7 +5,7 @@ layout: post
 
 #### hey there and welcome to this tutorial!
 
-In this tutorial (well it kinda isn't a tutorial) we will cover on how to include HTML in your `.md` files when you use [Jekyll](https://jekyllrb.com/). When you embed HTML in your Markdown (or in this case [kramdown](https://kramdown.gettalong.org/) which is the default Markdown renderer used by Jekyll) magic happens, e.g. you can add copy buttons for your code blocks (yeah those aren't built in in most themes) or embed youtube videos.
+In this tutorial (well it kinda isn't a tutorial) we will cover on how to include HTML in your `.md` files when you use [Jekyll](https://jekyllrb.com/). When you embed HTML in your Markdown (or in this case [kramdown](https://kramdown.gettalong.org/) which is the default Markdown renderer used by Jekyll) magic happens, e.g. you can add copy buttons for your code blocks (yeah those aren't built-in to most themes) or embed youtube videos.
 
 #### and how can i do it?
 
@@ -13,9 +13,9 @@ Well, it's simple. _very_ simple. _very very_ simple. _very very very si..._
 
 ##### i just want to know how to!
 
-You just write it. Thats because the default parser and converter of Jekyll, `kramdown` (Fun Fact: the actual name of it is without capital letters), converts itself, Markdown, GFM ([Github Flavored Markdown](https://github.github.io/gfm/)) and HTML into `.html` files.
+You just write it. That's because the default parser and converter of Jekyll, `kramdown` (Fun Fact: the actual name of it is without capital letters), converts itself, Markdown, GFM ([Github Flavored Markdown](https://github.github.io/gfm/)) and HTML into `.html` files.
 
-So this is not really a tutorial but rather a documentation about it. (Very samll documentation though)
+So this is not really a tutorial but rather a documentation about it. (Very small documentation though)
 
 ## Examples
 

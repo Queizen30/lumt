@@ -21,7 +21,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Mod loaders and server software](#mod-loaders-and-server-software)
     - [Mod loaders](#mod-loaders)
     - [Server software](#server-software)
-- [Content librarys](#content-librarys) (can anyone please find a better name?)
+- [Content libraries](#content-libraries) (can anyone please find a better name?)
     - [Mods](#mods)
     - [Texture packs](#texture-packs)
     - [Shaders](#shaders)
@@ -42,7 +42,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
     - [Server Software](#server-software-1)
     - [Server panels](#server-panels)
     - [Tools for server owners/admins](#tools-for-server-ownersadmins)
-    - [Server sanners and statistics](#server-scanners-and-statistics)
+    - [Server scanners and statistics](#server-scanners-and-statistics)
     - [Server lists](#server-lists)
     - [Server hosts](#server-hosts)
 - [Games](#games)
@@ -98,7 +98,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [MCICONS](https://mcicons.ccleaf.com/) - Full-resolution item icons
 - [MC Titles](https://mctitles.com/) - Minecraft-styled fonts and official logos
 - [Omniarchive](https://omniarchive.uk/) - Community that focuses on preserving official Minecraft content
-- [MC Mod Archive](https://mcmodarchive.femtopedia.de/) - Archve of lost, old and forgotten mods (Various other things can be found on their [discord](https://discord.gg/WuexGpP))
+- [MC Mod Archive](https://mcmodarchive.femtopedia.de/) - Archive of lost, old and forgotten mods (Various other things can be found on their [discord](https://discord.gg/WuexGpP))
 - [Minecraft Archive Project](https://map.crummy.com/) - Huge archive containing mods, worlds, screenshots, skins, texture packs, forum posts, ...
 - [Eimer Archive](https://eimerarchive.org/) - Archive focusing on server software and plugins
 - [Craft Bukkit Archive](https://drive.google.com/drive/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M?resourcekey=0-8b3rRFwKJECvcgSR78vm9g) - Archive containing CraftBukkit Builds
@@ -129,7 +129,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [More...](https://lestegii.github.io/server-software/)
 - [BE Server Software](https://wiki.bedrock.dev/servers/server-software.html) - List of Bedrock Server Software
 
-# Content librarys
+# Content libraries
 
 ## Mods
 - [Curseforge](https://curseforge.com/minecraft)
@@ -186,13 +186,13 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [r/MinecraftCommands](https://www.reddit.com/r/MinecraftCommands/) - Community for command help and command creations
 
 ## Data Pack generators
-- [Misode](https://misode.github.io/) - Data Pack generators and Minecraft tools#
+- [Misode](https://misode.github.io/) - Data Pack generators and Minecraft tools
 - [Crafting Recipe](https://crafting.thedestruc7i0n.ca/) - Create new crafting recipes
 - [Advancement Generator](https://advancements.thedestruc7i0n.ca/) - Advancement data pack generator
 - [Vanilla Tweaks](https://vanillatweaks.net/) - Generators for data packs, crafting tweaks and texture packs
 - [Bedrock Tweaks](https://bedrocktweaks.net/) - Unofficial fork of Vanilla Tweaks
 - [MCCreator](https://mcreator.net/about/minecraft-data-pack-maker) - Create Minecraft data packs (software)
-- [Data Pack Frameworks](https://ayfri.com/articles/datapack-generators/) - Blog post about datapack "frameworks"? (i have no idea, but i'll just list it here)
+- [Data Pack Frameworks](https://ayfri.com/articles/datapack-generators/) - Blog post about data pack "frameworks"? (i have no idea, but i'll just list it here)
 
 # Other generators
 - [Moddery](https://ejd799.github.io/moddery/) - Open-source, web-based mod builder
@@ -231,7 +231,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [r/Minecraftbuilds](https://www.reddit.com/r/Minecraftbuilds/) - Showcase your Minecraft builds
 - [r/Minecraftseeds](https://www.reddit.com/r/minecraftseeds/) - Seed sharing community
 - [r/Minecraft_Survival](https://www.reddit.com/r/Minecraft_Survival/)
-- [r/technicalminecraft](https://www.reddit.com/r/technicalminecraft/) - Everyting from
+- [r/technicalminecraft](https://www.reddit.com/r/technicalminecraft/) - Everything from memes to mechanics
 - [More...](https://www.reddit.com/r/Minecraft/wiki/related/)
 
 # Servers
@@ -245,7 +245,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Pterodactyl](https://pterodactyl.io/) - Linux
 - [AMP](https://cubecoders.com/AMP) - Windows, Linux (19€ or 38€ for lifetime)
 - [Puffer Panel](https://pufferpanel.com/) - Linux
-- [DiscoPabel](https://discopanel.app/) - All OS, runs on localhost
+- [DiscoPanel](https://discopanel.app/) - All OS, runs on localhost
 - [CraftyController](https://craftycontrol.com/) - Windows, Linux, CasaOS
 
 ## Tools for server owners/admins
@@ -277,7 +277,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [CraftConnections](https://craftconnections.net/) - Group 4 things in Minecraft that are related
 - [MCdle](https://www.mcdle.net/) - Wordle for Minecraft
 - [Minecraft Classic](https://classic.minecraft.net/) - Play Minecraft 0.0.23a_01 online (Official)
-- [Propertydle](https://joakimthorsen.github.io/MCPropertyEncyclopedia/propertydle/) - Like MCdle but with more categorys
+- [Propertydle](https://joakimthorsen.github.io/MCPropertyEncyclopedia/propertydle/) - Like MCdle but with more categories
 - [Minecraft Quiz](https://minecraftquiz.com/) - Take Minecraft quizzes
 
 - [Prismarine Web Client](https://prismarinejs.github.io/prismarine-web-client/) - Not really a game, but a Minecraft client running in a browser (not a clone)

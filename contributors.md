@@ -3,9 +3,9 @@ title: Contributors
 permalink: /contributors/
 ---
 Don't want to be on this list? [Contact me](https://github.com/Queizen30#contact-me-).  
-You will only be listed here when directly contacting me. If I used your contents and you want to be on this list too, once again, please [contact me](https://github.com/Queizen30#contact-me-).
+You will only be listed here when directly contacting me. If I used your content and you want to be on this list too, once again, please [contact me](https://github.com/Queizen30#contact-me-).
 
-- [Zac Durham](https://github.com/PapaZ810) (First contributor creating a issue on GitHub)
+- [Zac Durham](https://github.com/PapaZ810) (First contributor creating an issue on GitHub)
   - [DiscoPanel, Crafty Control]
 - [MinecraftPlayer799](https://l.qu30.qzz.io/l/r/MinecraftPlayer799/)
   - [Moddery](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw5y465/)
@@ -17,7 +17,7 @@ You will only be listed here when directly contacting me. If I used your content
 
 
 - [xillube](https://l.qu30.qzz.io/l/r/Xillubfr)
-  - [Block Property Enclyclopedia, Worldpainter](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw6ihap)
+  - [Block Property Encyclopedia, Worldpainter](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw6ihap)
 
 
 - [_gid](https://l.qu30.qzz.io/l/r/_gid)
@@ -25,7 +25,7 @@ You will only be listed here when directly contacting me. If I used your content
 
 
 - [CrazyGamer24151](https://l.qu30.qzz.io/l/r/CrazyGamer24151)
-  - [Color pallete](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw800q9)
+  - [Color palette](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw800q9)
 
 
 - [imperfect_imp](https://l.qu30.qzz.io/l/r/imperfect_imp)
@@ -36,8 +36,8 @@ You will only be listed here when directly contacting me. If I used your content
   - [Chunkbase for modded MC](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw6cz73)
 
 
-- [sky_cap5959](https://l.qu30.qzz.io>/l/r/sky_cap5959)
-  - [pixel circel gen](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw5x7qn)
+- [sky_cap5959](https://l.qu30.qzz.io/l/r/sky_cap5959)
+  - [pixel circle gen](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw5x7qn)
  
 - [lamba_44](https://l.qu30.qzz.io/l/r/lamba_44)
   - [Anvil enchanting optimizer](https://www.reddit.com/r/Minecraft/comments/1pxucpx/comment/nwdmxhx/)
