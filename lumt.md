@@ -245,6 +245,8 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Pterodactyl](https://pterodactyl.io/) - Linux
 - [AMP](https://cubecoders.com/AMP) - Windows, Linux (19€ or 38€ for lifetime)
 - [Puffer Panel](https://pufferpanel.com/) - Linux
+- [DiscoPabel](https://discopanel.app/) - All OS, runs on localhost
+- [CraftyController](https://craftycontrol.com/) - Windows, Linux, CasaOS
 
 ## Tools for server owners/admins
 - [MC-Packs](https://mc-packs.net/) - Host a resource pack for your server
