@@ -8,3 +8,4 @@ https://www.fibermc.com/
 https://bloxelizer.com/
 
 IDEAS:
+https://imgur.com/JqOogPl

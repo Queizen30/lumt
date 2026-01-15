@@ -16,6 +16,14 @@
 <meta itemprop="description" content="Blog posts, various list, and a list of useful Minecraft tools">
 <meta itemprop="image" content="https://raw.githubusercontent.com/Queizen30/lumt/main/data/media/logo-circle.webp">
 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KDGB25FC');</script>
+<!-- End Google Tag Manager -->
+ 
 <!-- Facebook Meta Tags -->
 <meta property="og:url" content="https://lumt.qu30.qzz.io">
 <meta property="og:type" content="website">
@@ -36,6 +44,10 @@
 <meta name='apple-mobile-web-app-status-bar-style' content='black'>
 <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/Queizen30/lumt/main/data/media/logo-circle.webp">
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDGB25FC" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <div class="main-container">
         <div class="nav-container">
     <div class="logo-container"><img src="/data/media/logo-circle.webp" alt="logo" width="30" height="30">LUMT</div>
@@ -67,11 +79,11 @@
 <h2 id="contents">Contents</h2>
 
 <ul>
-  <li><a href="#wikis-and-knowledgebases">Wikis and Knowledgebases</a>
+  <li><a href="#wikis-archives-and-tutorials">Wikis, Archives and Tutorials</a>
     <ul>
       <li><a href="#base-game">Base Game</a></li>
-      <li><a href="#development">Development</a></li>
       <li><a href="#archives">Archives</a></li>
+      <li><a href="#tutorials">Tutorials</a></li>
     </ul>
   </li>
   <li><a href="#mod-loaders-and-server-software">Mod loaders and server software</a>
@@ -173,14 +185,18 @@
   </li>
   <li><a href="#for-the-devs">For the devs</a>
     <ul>
+      <li><a href="#mods-1">Mods</a></li>
+      <li><a href="#docs">Docs</a></li>
       <li><a href="#apis">APIs</a></li>
       <li><a href="#software-1">Software</a></li>
       <li><a href="#online-tools-1">Online tools</a></li>
+      <li><a href="#bugtrackers">Bugtrackers</a></li>
+      <li><a href="#other-2">Other</a></li>
     </ul>
   </li>
 </ul>
 
-<h1 id="wikis-and-knowledgebases">Wikis and Knowledgebases</h1>
+<h1 id="wikis-archives-and-tutorials">Wikis, Archives and Tutorials</h1>
 
 <h2 id="base-game">Base Game</h2>
 <ul>
@@ -190,13 +206,6 @@
   <li><a href="https://minecraft.fandom.com">Old Wiki</a> - Old wiki spammed with ads and containing outdated information</li>
   <li><a href="https://joakimthorsen.github.io/MCPropertyEncyclopedia/">MC Property Encyclopedia</a> - View properties of blocks, entities, or items</li>
   <li><a href="https://mcpk.miraheze.org/wiki/Main_Page">MCPW</a> - Minecraft Parkour Wiki</li>
-</ul>
-
-<h2 id="development">Development</h2>
-<ul>
-  <li><a href="https://docs.papermc.io">PaperMC Docs</a> - Documentation for <a href="https://papermc.io">PaperMC</a></li>
-  <li><a href="https://bedrock.dev">Bedrock Dev Docs</a> - Bedrock add-on &amp; pack development</li>
-  <li><a href="https://wiki.quiltmc.org">Quilt Docs</a> - Quilt/loader docs &amp; migration resources</li>
 </ul>
 
 <h2 id="archives">Archives</h2>
@@ -210,6 +219,12 @@
   <li><a href="https://eimerarchive.org/">Eimer Archive</a> - Archive focusing on server software and plugins</li>
   <li><a href="https://drive.google.com/drive/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M?resourcekey=0-8b3rRFwKJECvcgSR78vm9g">Craft Bukkit Archive</a> - Archive containing CraftBukkit Builds</li>
   <li><a href="https://mcversions.net/">MCVersions</a> - Almost all Minecraft <code class="language-plaintext highlighter-rouge">.jar</code>s</li>
+</ul>
+
+<h2 id="tutorials">Tutorials</h2>
+<ul>
+  <li><a href="https://www.minecraftforum.net/forums/minecraft-java-edition/redstone-discussion-and/351959-1-12-json-text-component-for-tellraw-title-books">JSON Usage and Syntax in Commands</a> - Last updated 1.12</li>
+  <li><a href="#tutorials-for-the-default-launcher">Tutorials for the default launcher</a></li>
 </ul>
 
 <h1 id="mod-loaders-and-server-software">Mod loaders and server software</h1>
@@ -556,6 +571,7 @@
   <li><a href="https://onlinemo.de/world">World Size Calculator</a> - Calculate the disk size of a world</li>
   <li><a href="https://cubical.xyz/">Cubical</a> - Web based map editor</li>
   <li><a href="https://www.orefinder.gg/">OreFinder</a> - Much like x-ray, finds ores from a seed</li>
+  <li><a href="https://bloxelizer.com/">Bloxelizer</a> - Voxelize, Pixelate, and Create 3D worlds in your Browser</li>
 </ul>
 
 <h3 id="maps">Maps</h3>
@@ -595,6 +611,25 @@
 
 <h1 id="for-the-devs">For the devs</h1>
 
+<h2 id="mods-1">Mods</h2>
+<ul>
+  <li><a href="https://github.com/gnembon/fabric-carpet/tree/master">Carpet</a> - ‘Allows you to take full control of what matters from a technical perspective of the game’
+    <ul>
+      <li><a href="https://github.com/gnembon/fabric-carpet/blob/master/docs/scarpet/Documentation.md">Scarpet</a> - Programming language within carpet</li>
+      <li><a href="https://carpet-rules.crec.dev/">Carpet Rules</a> - Database of rules from multiple carpet-like mods in one place</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="docs">Docs</h2>
+<ul>
+  <li><a href="https://linkie.shedaniel.dev/">Linkie</a></li>
+  <li><a href="https://mcsrc.dev/">MCSRC.Dev</a> - Read through Minecraft code</li>
+  <li><a href="https://docs.papermc.io">PaperMC Docs</a> - Documentation for <a href="https://papermc.io">PaperMC</a></li>
+  <li><a href="https://bedrock.dev">Bedrock Dev Docs</a> - Bedrock add-on &amp; pack development</li>
+  <li><a href="https://wiki.quiltmc.org">Quilt Docs</a> - Quilt/loader docs &amp; migration resources</li>
+</ul>
+
 <h2 id="apis">APIs</h2>
 <ul>
   <li><a href="https://minerender.org/">Minerender</a> - Render items, skins, blocks, etc.</li>
@@ -613,12 +648,21 @@
   <li><a href="https://outils.carrade.eu/minecraft/loot_tables">Loot tables generator</a></li>
   <li><a href="https://mcbe-essentials.github.io/">MCBE Essentials</a> - Tools for BE</li>
   <li><a href="https://mctools.dev/">Creator Tools</a> - Official tools for addon creation</li>
+  <li><a href="https://www.brandonfowler.me/nbtreader/">Minecraft NBT Reader</a> - Read <code class="language-plaintext highlighter-rouge">.nbt</code> files easyly</li>
+</ul>
+
+<h2 id="bugtrackers">Bugtrackers</h2>
+<p>(apperently theres a whole community on here, see <a href="#minecraft-subreddits">r/mojira</a>)</p>
+<ul>
+  <li><a href="https://bugs.mojang.com/">Mojira</a> - The official one</li>
+  <li><a href="https://mojira-viewer.jacobsjo.eu/">Mojira Viewer</a> - By <a href="https://github.com/jacobsjo">jacobsjo</a> (also made <a href="https://jacobsjo.eu/">these</a> tools), <a href="https://github.com/jacobsjo/mojira-viewer">open-source</a></li>
+  <li></li>
 </ul>
 
 <h2 id="other-2">Other</h2>
 <ul>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server">Data Pack Helper Plus</a> - <a href="https://code.visualstudio.com">VS Code</a> Extension: Heavy language features for Minecraft: Java Edition data pack file</li>
-  <li><a href="https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt">NBTViewer</a> - VS COde extension: View Minecraft NBT and 3D structures</li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt">NBTViewer</a> - VS Code extension: View Minecraft NBT and 3D structures</li>
 </ul>
 
 <h3 id="comments">Comments</h3>
@@ -638,10 +682,11 @@
         crossorigin="anonymous"
         async>
 </script>
-        </div>
-        <footer"class="footer">
+
+            <footer"class="footer">
     <p><i>Note: This website is still in development.</i></p>
     </footer>
+        </div>
     </div>
 </body>
 </html>

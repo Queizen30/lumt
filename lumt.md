@@ -14,10 +14,10 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 
 ## Contents
 
-- [Wikis and Knowledgebases](#wikis-and-knowledgebases)
+- [Wikis, Archives and Tutorials](#wikis-archives-and-tutorials)
     - [Base Game](#base-game)
-    - [Development](#development)
     - [Archives](#archives)
+    - [Tutorials](#tutorials)
 - [Mod loaders and server software](#mod-loaders-and-server-software)
     - [Mod loaders](#mod-loaders)
     - [Server software](#server-software)
@@ -74,11 +74,15 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
         - [Coordinates](#coordinates)
         - [Other](#other-1)
 - [For the devs](#for-the-devs)
+    - [Mods](#mods-1)
+    - [Docs](#docs)
     - [APIs](#apis)
     - [Software](#software-1)
     - [Online tools](#online-tools-1)
+    - [Bugtrackers](#bugtrackers)
+    - [Other](#other-2)
 
-# Wikis and Knowledgebases
+# Wikis, Archives and Tutorials
 
 ## Base Game
 - [Official Minecraft Help](https://help.minecraft.net) - Official support & knowledge base
@@ -87,11 +91,6 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Old Wiki](https://minecraft.fandom.com) - Old wiki spammed with ads and containing outdated information
 - [MC Property Encyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/) - View properties of blocks, entities, or items
 - [MCPW](https://mcpk.miraheze.org/wiki/Main_Page) - Minecraft Parkour Wiki
-
-## Development
-- [PaperMC Docs](https://docs.papermc.io) - Documentation for [PaperMC](https://papermc.io)
-- [Bedrock Dev Docs](https://bedrock.dev) - Bedrock add-on & pack development
-- [Quilt Docs](https://wiki.quiltmc.org) - Quilt/loader docs & migration resources
 
 ## Archives
 - [MCAssets](https://mcasset.cloud/latest) - Browse Minecraft assets
@@ -103,6 +102,11 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Eimer Archive](https://eimerarchive.org/) - Archive focusing on server software and plugins
 - [Craft Bukkit Archive](https://drive.google.com/drive/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M?resourcekey=0-8b3rRFwKJECvcgSR78vm9g) - Archive containing CraftBukkit Builds
 - [MCVersions](https://mcversions.net/) - Almost all Minecraft `.jar`s
+
+## Tutorials
+- [JSON Usage and Syntax in Commands](https://www.minecraftforum.net/forums/minecraft-java-edition/redstone-discussion-and/351959-1-12-json-text-component-for-tellraw-title-books) - Last updated 1.12
+- [Tutorials for the default launcher](#tutorials-for-the-default-launcher)
+
 
 # Mod loaders and server software
 
@@ -376,6 +380,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [World Size Calculator](https://onlinemo.de/world) - Calculate the disk size of a world
 - [Cubical](https://cubical.xyz/) - Web based map editor
 - [OreFinder](https://www.orefinder.gg/) - Much like x-ray, finds ores from a seed
+- [Bloxelizer](https://bloxelizer.com/) - Voxelize, Pixelate, and Create 3D worlds in your Browser
 
 ### Maps
 - [Chunkbase](https://chunkbase.com) - Seed map
@@ -402,6 +407,18 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 
 # For the devs
 
+## Mods
+- [Carpet](https://github.com/gnembon/fabric-carpet/tree/master) - 'Allows you to take full control of what matters from a technical perspective of the game'
+    - [Scarpet](https://github.com/gnembon/fabric-carpet/blob/master/docs/scarpet/Documentation.md) - Programming language within carpet
+    - [Carpet Rules](https://carpet-rules.crec.dev/) - Database of rules from multiple carpet-like mods in one place
+
+## Docs
+- [Linkie](https://linkie.shedaniel.dev/)
+- [MCSRC.Dev](https://mcsrc.dev/) - Read through Minecraft code
+- [PaperMC Docs](https://docs.papermc.io) - Documentation for [PaperMC](https://papermc.io)
+- [Bedrock Dev Docs](https://bedrock.dev) - Bedrock add-on & pack development
+- [Quilt Docs](https://wiki.quiltmc.org) - Quilt/loader docs & migration resources
+
 ## APIs
 - [Minerender](https://minerender.org/) - Render items, skins, blocks, etc.
 
@@ -415,10 +432,17 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Loot tables generator](https://outils.carrade.eu/minecraft/loot_tables)
 - [MCBE Essentials](https://mcbe-essentials.github.io/) - Tools for BE
 - [Creator Tools](https://mctools.dev/) - Official tools for addon creation
+- [Minecraft NBT Reader](https://www.brandonfowler.me/nbtreader/) - Read `.nbt` files easyly
+
+## Bugtrackers
+(apperently theres a whole community on here, see [r/mojira](#minecraft-subreddits))
+- [Mojira](https://bugs.mojang.com/) - The official one
+- [Mojira Viewer](https://mojira-viewer.jacobsjo.eu/) - By [jacobsjo](https://github.com/jacobsjo) (also made [these](https://jacobsjo.eu/) tools), [open-source](https://github.com/jacobsjo/mojira-viewer)
+- 
 
 ## Other
 - [Data Pack Helper Plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server) - [VS Code](https://code.visualstudio.com) Extension: Heavy language features for Minecraft: Java Edition data pack file
-- [NBTViewer](https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt) - VS COde extension: View Minecraft NBT and 3D structures
+- [NBTViewer](https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt) - VS Code extension: View Minecraft NBT and 3D structures
 
 
 ### Comments
