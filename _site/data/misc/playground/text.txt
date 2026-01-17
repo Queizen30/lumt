@@ -12,7 +12,7 @@
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>FAQ | LUMT</title>
+<title>Lol | LUMT</title>
 
 <!-- Favicon -->
 <link rel="icon" href="/data/media/logo-circle.webp">
@@ -70,26 +70,8 @@
         <div class="content-container">
 
             <hr class="mobile-hr">
-            <h1>FAQ</h1>
-            <h3 id="i-appreciate-your-work-so-much-what-can-i-do-to-support-you-and-lumt">I appreciate your work <strong>so</strong> much, what can I do to support you and LUMT?</h3>
-<p>LUMT is a non-profit project, wich means that I don’t want to make any money with it while also trying to not lose any. Although you can still support me by doing one or multiple things on this list:</p>
-<ul>
-  <li>Give this repository a star on <a href="https;//github.com/queizen30/lumt">GitHub</a></li>
-  <li>Follow me on <a href="https://github.com/Queizenn30">GitHub</a></li>
-  <li><a href="/a/contribute">Contribute</a> to LUMT
-    <ul>
-      <li>Create a request for a new item</li>
-      <li>Add a search bar (this would be <strong>so awesome</strong>)</li>
-      <li>Add a blog post</li>
-      <li>Something other</li>
-    </ul>
-  </li>
-  <li>Become a <a href="/a/become-supporter">Supporter</a></li>
-</ul>
-
-<h3 id="how-do-you-manage-this-site">How do you manage this site?</h3>
-<p>I use GitHub Pages for hosting, and a free domain for the domain. See <a href="/a/how-does-lumt-work">this</a>.</p>
-
+            <h1>Lol</h1>
+            hello!
             <script src="https://giscus.app/client.js"
         data-repo="queizen30/lumt"
         data-repo-id="R_kgDOQuT8vg"

@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
 * {
     background-color: #0f0f0f;
-    color: whitesmoke;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #f5f5f5;
     text-underline-offset: 3px;
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 h1,
@@ -52,8 +59,8 @@ img {
 }
 
 .content-container {
-  margin-left: 15vw;
-  height: fit-content;
+    margin-left: 15vw;
+    height: fit-content;
 }
 
 .logo-container {
@@ -61,11 +68,69 @@ img {
     align-items: center;
 }
 
-.logo-container img {margin: 10px;}
-
-.footer {
-  text-align: center;
-  padding: 8px;
+.logo-container img {
+    margin: 10px;
 }
 
-.mobile-hr {display: none;}
+.footer {
+    text-align: center;
+    padding: 8px;
+}
+
+.mobile-hr {
+    display: none;
+}
+
+.posts-container {
+    margin: 10px;
+    padding: 2px 10px;
+    background-color: #1f1f1f;
+    border-radius: 5px;
+}
+
+
+.posts-container * {
+    background-color: #1f1f1f;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.posts-container h3 {
+    margin: 0px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+}
+
+.posts-container *:not(a):hover {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.posts-container p {
+    margin: 0px;
+}
+
+.posts-container a:hover {
+    color: #e3e3e3;
+}
+
+.tags:not(:empty) {
+    display: inline-block;
+    background-color: #2f2f2f;
+    padding: 3px 3px 2px;
+    margin: 5px 3px 5px 0px;
+    font-weight: 600;
+    font-family: "Source Code Pro", monospace;
+    font-size: 0.9em;
+}
+
+blockquote {
+    border-left: 5px solid #ececec;
+    background-color: #1f1f1f;
+    margin: 1.5em 10px;
+    padding: 1px 10px;
+}
+
+blockquote * {
+    background-color: #1f1f1f;
+}

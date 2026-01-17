@@ -2,7 +2,7 @@
 title: The List
 ---
 
-This list contains about 200 items and took dedication and time to compile. So if you had one of those moments (WHERE HAS THIS BEEN ALL MY LIFE?), I would appreciate it if you could [give this repo a star on GitHub](https://github.com/Queizen30/lumt). (Remember, only a few clicks!)
+LUMT, wich stands for 'List of useful Minecraft tools', is a **huge** list of all sorts of ressources all around Minecraft. So if you had one of those moments, where your brains says 'Where has this been all my life?', I would appreciate it if you could [give this repo a star on GitHub](https://github.com/Queizen30/lumt). (Remember, only a few clicks!)
 
 If you have any more items to add, found mistakes or think something fits better in another category, etc., you can open an [Issue](https://github.com/Queizen30/lumt/issues).
 

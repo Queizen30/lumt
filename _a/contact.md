@@ -1,5 +1,6 @@
 ---
 title: Contact me
+hidden: true
 ---
 You can either message me on [reddit](https://chat.reddit.com/user/Queizen30), [discord](https://discord.com/users/1430423578179797098) or [send me a e-mail](mailto:info@qu30.qzz.io).
 

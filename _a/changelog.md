@@ -1,5 +1,6 @@
 ---
 title: Changelog
+tags: site versions
 ---
 This is the Changelog for [LUMT](/).  
 Only major updates will be listed here.

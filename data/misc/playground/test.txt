@@ -1,0 +1,5 @@
+---
+title: Lol
+permalink: /data/misc/playground/text
+---
+hello!

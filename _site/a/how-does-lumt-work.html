@@ -12,7 +12,7 @@
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>FAQ | LUMT</title>
+<title>How does LUMT work? | LUMT</title>
 
 <!-- Favicon -->
 <link rel="icon" href="/data/media/logo-circle.webp">
@@ -70,25 +70,32 @@
         <div class="content-container">
 
             <hr class="mobile-hr">
-            <h1>FAQ</h1>
-            <h3 id="i-appreciate-your-work-so-much-what-can-i-do-to-support-you-and-lumt">I appreciate your work <strong>so</strong> much, what can I do to support you and LUMT?</h3>
-<p>LUMT is a non-profit project, wich means that I don’t want to make any money with it while also trying to not lose any. Although you can still support me by doing one or multiple things on this list:</p>
-<ul>
-  <li>Give this repository a star on <a href="https;//github.com/queizen30/lumt">GitHub</a></li>
-  <li>Follow me on <a href="https://github.com/Queizenn30">GitHub</a></li>
-  <li><a href="/a/contribute">Contribute</a> to LUMT
-    <ul>
-      <li>Create a request for a new item</li>
-      <li>Add a search bar (this would be <strong>so awesome</strong>)</li>
-      <li>Add a blog post</li>
-      <li>Something other</li>
-    </ul>
-  </li>
-  <li>Become a <a href="/a/become-supporter">Supporter</a></li>
-</ul>
+            <h1>How does LUMT work?</h1>
+            <p>Ever wondered how this sites backend works?</p>
 
-<h3 id="how-do-you-manage-this-site">How do you manage this site?</h3>
-<p>I use GitHub Pages for hosting, and a free domain for the domain. See <a href="/a/how-does-lumt-work">this</a>.</p>
+            
+            <span class="tags">lumt</span>
+            
+            <span class="tags">backend</span>
+            
+            
+            <hr>
+            <p>For a post purely about frontend, see <a href="#">[Coming soon…]</a></p>
+<h1 id="hosting">Hosting</h1>
+<p>I use <a href="https://docs.github.com/en/pages">GitHub Pages</a> for hosting LUMT and <a href="https://jekyllrb.com/">Jekyll</a> as the generator.</p>
+
+<h2 id="github-pages">GitHub Pages</h2>
+<p>I use <a href="https://github.com/Queizen30/lumt/blob/main/.github/workflows/static.yml">this</a> custom workflow to deploy to GitHub Pages. As you can see, I also have a CNAME Record (If you don’t know what DNS Records are, see <a href="https://www.cloudflare.com/learning/dns/dns-records/">here</a>.) set up <a href="https://github.com/Queizen30/lumt/blob/main/CNAME">here</a> for my <a href="#domain">domain</a>.</p>
+
+<h2 id="jekyll">Jekyll</h2>
+<p>If you don’t know what Jekyll is, it’s basicly a converter that takes Markdown, HTML and CSS and spits out a static site. (If you do know what Jekyll is and want to get started, I recommend <a href="https://www.aleksandrhovhannisyan.com/blog/getting-started-with-jekyll-and-github-pages/">this</a> awesome tutorial.)<br />
+I build the site locally into the <a href="https://github.com/Queizen30/lumt/tree/main/_site">_site</a> directorary and then push it to GitHub. Then <a href="https://github.com/Queizen30/lumt/blob/main/.github/workflows/static.yml">this</a> workflow takes it and deploys it to GitHub Pages.</p>
+
+<h3 id="theme">Theme</h3>
+<p>LUMT is using a <a href="https://github.com/Queizen30/lumt/pull/6">custom theme</a> made by myself wich is sometimes getting small improvments. I wouldn’t recommend using this theme when there are <a href="https://jekyllrb.com/docs/themes/">hunderts other</a> easy to use themes.</p>
+
+<h1 id="domain">Domain</h1>
+<p>I use <a href="https://domain.digitalplat.org/">Digitalplat Domains</a> for a free domain and <a href="https://www.cloudflare.com/">Cloudflare</a> for DNS.</p>
 
             <script src="https://giscus.app/client.js"
         data-repo="queizen30/lumt"

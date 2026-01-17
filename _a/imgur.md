@@ -1,5 +1,6 @@
 ---
 title: Imgur
+hidden: true
 ---
 Look at the links. I don't need to explain anything else.
 

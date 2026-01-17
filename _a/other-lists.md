@@ -1,5 +1,6 @@
 ---
 title: Other lists
+hidden: true
 layout: post
 ---
 
