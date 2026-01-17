@@ -3,6 +3,7 @@ title: How to include HTML in your Jekyll markdown files
 layout: post
 tags: draft
 description: Coming soon...
+hidden: true
 ---
 
 #### hey there and welcome to this tutorial!
