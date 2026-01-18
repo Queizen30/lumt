@@ -1,14 +1,88 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+<!DOCTYPE html lang="en-US">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H6N4W9TXCS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H6N4W9TXCS');
+</script>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> | LUMT</title>
+
+<!-- Favicon -->
+<link rel="icon" href="/data/media/logo-circle.webp">
+
+<!-- Stylesheets -->
+<link rel="stylesheet" href="/data/css/main.css">
+
+
+<!-- Google / Search Engine Tags -->
+<meta itemprop="name" content="LUMT | List of useful Minecraft tools">
+<meta name="description" content="Blog posts, various list, and a list of useful Minecraft tools">
+<meta itemprop="image" content="https://raw.githubusercontent.com/Queizen30/lumt/main/data/media/logo-circle.webp">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://lumt.qu30.qzz.io">
+<meta property="og:type" content="website">
+<meta property="og:title" content="LUMT | List of useful Minecraft tools">
+<meta property="og:description" content="Blog posts, various list, and a list of useful Minecraft tools">
+<meta property="og:image" content="https://raw.githubusercontent.com/Queizen30/lumt/main/data/media/logo-circle.webp">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="LUMT | List of useful Minecraft tools">
+<meta name="twitter:description" content="Blog posts, various list, and a list of useful Minecraft tools">
+<meta name="twitter:creator" content="@Queizen30">
+<meta name="twitter:site" content="@Queizen30">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/Queizen30/lumt/main/data/media/logo-circle.webp">
+
+
+<!-- Apple Meta tags-->
+<meta name='apple-mobile-web-app-status-bar-style' content='black'>
+<link rel="apple-touch-icon" href="https://raw.githubusercontent.com/Queizen30/lumt/main/data/media/logo-circle.webp">
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDGB25FC" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="main-container">
+        <div class="nav-container">
+    <div class="logo-container"><img src="/data/media/logo-circle-small.webp" alt="logo" width="30" height="30">LUMT</div>
+    <h4><strong>Primary</strong></h4>
+    <a href="/">Home</a><br>
+    <a href="/about.md">About</a><br>
+    <a href="/lumt">LUMT</a><br>
+    <a href="/a/">Blog</a>
+
+    <h4><strong>Other</strong></h4>
+    <a href="/contributors">Contributors</a><br>
+    <a href="/a/changelog">Changelog</a>
+    
+</div>
+
+        <div class="content-container">
+
+            <hr class="mobile-hr">
+            <h1></h1>
+            @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 
 
 * {
-    background-color: #0f0f0f;
-    color: #f5f5f5;
     text-underline-offset: 3px;
 }
 
 body {
+    
+    background-color: #0f0f0f;
+    color: #f5f5f5;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
@@ -134,3 +208,47 @@ blockquote {
 blockquote * {
     background-color: #1f1f1f;
 }
+
+@media (max-width: 800px) {
+    .nav-container {
+    width: fit-content;
+    height: fit-content;
+    margin: 0 20px 30px 0;
+
+    float: none;
+    position: static;
+    display: block;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    }
+
+    .content-container {
+        margin: 0px;
+    }
+
+    .mobile-hr {display: block;}
+}
+            <script src="https://giscus.app/client.js"
+        data-repo="queizen30/lumt"
+        data-repo-id="R_kgDOQuT8vg"
+        data-category="General"
+        data-category-id="DIC_kwDOQuT8vs4C0Z1N"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+            <footer"class="footer">
+    <p><i>Note: This website is still in development.</i></p>
+    </footer>
+        </div>
+    </div>
+</body>
+</html>
