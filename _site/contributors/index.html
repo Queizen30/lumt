@@ -154,9 +154,35 @@ You will only be listed here when <a href="/a/directly-contacting">directly cont
         async>
 </script>
 
-            <footer"class="footer">
-    <p><i>Note: This website is still in development.</i></p>
-    </footer>
+            <footer class="footer">
+    <i>
+        <p>Note: This website is still in development.</p>
+        <p>This site was <a href="" id="openCommitA">last built</a> on <span id="lastCommitDateSpan"></span>.</p>
+    </i>
+</footer>
+
+<!-- Include Momentjs, a javacript date/time library-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js">
+
+</script>
+
+<script>
+    async function getLastCommit() {
+        const response = await fetch("https://api.github.com/repos/Queizen30/lumt/branches/main");
+        const lastCommitData = await response.json();
+
+        const lastCommitSha = lastCommitData.commit.sha;
+        let lastCommitDate = lastCommitData.commit.commit.committer.date;
+
+        // format date
+        lastCommitDate = moment(lastCommitDate).format("dd, MMM Do YYYY, h:mm:ss a");
+
+        document.getElementById("lastCommitDateSpan").innerText = lastCommitDate;
+        document.getElementById("openCommitA").href = `https://github.com/Queizen30/lumt/commit/${lastCommitSha}`;
+    }
+
+    getLastCommit();
+</script>
         </div>
     </div>
 </body>
