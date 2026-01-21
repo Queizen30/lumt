@@ -184,6 +184,7 @@ pre {
     flex-direction: column;
     align-items: left;
     justify-content: center;
+    font-size: 24px;
     }
 
     .content-container {
@@ -303,32 +304,34 @@ pre {
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <div class="main-container">
-        <div class="nav-container">
-    <div class="logo-container"><img src="/data/media/logo-circle-small.webp" alt="logo" width="30" height="30">LUMT</div>
-    <h4><strong>Primary</strong></h4>
-    <a href="/">Home</a><br>
-    <a href="/about.md">About</a><br>
-    <a href="/lumt">LUMT</a><br>
-    <a href="/a/">Blog</a>
+        <nav role="navigation">
+    <div class="nav-container">
+        <div class="logo-container"><img src="/data/media/logo-circle-small.webp" alt="logo" width="30" height="30">LUMT
+        </div>
+        <h4><strong>Primary</strong></h4>
+        <a href="/">Home</a><br>
+        <a href="/about.md">About</a><br>
+        <a href="/lumt">LUMT</a><br>
+        <a href="/a/">Blog</a>
 
-    <h4><strong>Other</strong></h4>
-    <a href="/contributors">Contributors</a><br>
-    <a href="/a/changelog">Changelog</a>
-    
-</div>
+        <h4><strong>Other</strong></h4>
+        <a href="/contributors">Contributors</a><br>
+        <a href="/a/changelog">Changelog</a>
 
+    </div>
+</nav>
         <div class="content-container">
-
-            <hr class="mobile-hr">
-            <h1>Buy a domain for LUMT</h1>
-            <p>I know I’ve said I don’t want to make any money with this project, but this doesn’t give me money, but it gives LUMT a more trustworthy look and maybe lets users not think the moment they enter the page <em>This website has a sub-subdomain, I think it’s a scam!</em> and let’s them discover the useful ressources LUMT provides.</p>
+            <main role="main">
+                <hr class="mobile-hr">
+                <h1>Buy a domain for LUMT</h1>
+                <p>I know I’ve said I don’t want to make any money with this project, but this doesn’t give me money, but it gives LUMT a more trustworthy look and maybe lets users not think the moment they enter the page <em>This website has a sub-subdomain, I think it’s a scam!</em> and let’s them discover the useful ressources LUMT provides.</p>
 
 <h2 id="i-want-to-buy-a-domain-for-lumt">I want to buy a domain for LUMT!</h2>
 <p>First of all: Thank you for considering it. Thank you so much.</p>
 
 <p>If you want to buy a domain for LUMT, please <a href="/a/contact">contact me</a>.</p>
 
-            <script src="https://giscus.app/client.js"
+                <script src="https://giscus.app/client.js"
         data-repo="queizen30/lumt"
         data-repo-id="R_kgDOQuT8vg"
         data-category="General"
@@ -345,11 +348,12 @@ pre {
         async>
 </script>
 
-
-            <footer class="footer">
+            </main>
+            <footer class="footer" role="contentinfo">
     <i>
         <p>Note: This website is still in development.</p>
         <p>This site was <a href="" id="openCommitA">last built</a> on <span id="lastCommitDateSpan"></span>.</p>
+        <p>© Quirin Wittmann, licensed under <a href="https://github.com/Queizen30/lumt/blob/main/LICENSE">CC-BY-4.0</a></p>
     </i>
 </footer>
 
