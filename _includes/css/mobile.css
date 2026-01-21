@@ -1,0 +1,20 @@
+@media (max-width: 800px) {
+    .nav-container {
+    width: fit-content;
+    height: fit-content;
+    margin: 0 20px 30px 0;
+
+    float: none;
+    position: static;
+    display: block;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    }
+
+    .content-container {
+        margin: 0px;
+    }
+
+    .mobile-hr {display: block;}
+}

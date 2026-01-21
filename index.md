@@ -2,7 +2,7 @@
 title: Home
 ---
 
-### Welcome!
+# Welcome!
 
 You're probably looking for [the list](/lumt). You can just click the link and skip reading this awfully long text.
 

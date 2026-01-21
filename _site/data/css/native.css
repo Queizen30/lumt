@@ -1,3 +1,197 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H6N4W9TXCS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H6N4W9TXCS');
+</script>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> | LUMT</title>
+
+<!-- Favicon -->
+<link rel="icon" href="/data/media/logo-circle.webp">
+
+<!-- Stylesheets -->
+<style>
+  ---
+---
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+* {
+    text-underline-offset: 3px;
+}
+
+body {
+    
+    background-color: #0f0f0f;
+    color: #f5f5f5;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.main-container {
+    width: 100%;
+    max-width: calc(800px - (30px * 2));
+    margin: 0 auto;
+    padding: 0 1.25rem;
+    box-sizing: border-box;
+}
+
+a {
+    color: #a5a5a5;
+}
+
+a:hover {
+    text-decoration: underline dotted;
+    color: #fff;
+}
+
+.nav-container {
+    width: 10vw;
+    height: 100vh;
+    margin: 0 20px 10px 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+
+    position: fixed;
+}
+
+.nav-container h4 {
+    margin-bottom: 5px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.content-container {
+    margin-left: 15vw;
+    height: fit-content;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-container img {
+    margin: 10px;
+}
+
+.footer {
+    text-align: center;
+    padding: 8px;
+}
+
+.mobile-hr {
+    display: none;
+}
+
+.posts-container {
+    margin: 10px;
+    padding: 2px 10px;
+    background-color: #1f1f1f;
+    border-radius: 5px;
+}
+
+
+.posts-container * {
+    background-color: #1f1f1f;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.posts-container h3 {
+    margin: 0px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+}
+
+.posts-container *:not(a):hover {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.posts-container p {
+    margin: 0px;
+}
+
+.posts-container a:hover {
+    color: #e3e3e3;
+}
+
+.tags:not(:empty) {
+    display: inline-block;
+    background-color: #2f2f2f;
+    padding: 3px 3px 2px;
+    margin: 5px 3px 5px 0px;
+    font-weight: 600;
+    font-family: "Source Code Pro", monospace;
+    font-size: 0.9em;
+}
+
+blockquote {
+    border-left: 5px solid #ececec;
+    background-color: #0f0f11;
+    margin: 1.5em 10px;
+    padding: 1px 10px 1px 20px;
+}
+
+pre {
+    margin: 2em 10px 2em;
+    padding: 5px 10px 5px 20px;
+    border-radius: 3px;
+    border-left: 3px solid #f36d33;
+}
+
+:not(pre) > code {
+    background-color: #2f2f2f;
+    padding: 0.1em 0.2em;
+    border-radius: 3px;
+    font-family: "Source Code Pro", monospace;
+    font-size: 14px;
+}
+
+
+@media (max-width: 800px) {
+    .nav-container {
+    width: fit-content;
+    height: fit-content;
+    margin: 0 20px 30px 0;
+
+    float: none;
+    position: static;
+    display: block;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    }
+
+    .content-container {
+        margin: 0px;
+    }
+
+    .mobile-hr {display: block;}
+}
 .highlight pre { background-color: #404040 }
 .highlight .hll { background-color: #404040 }
 .highlight .c { color: #999999; font-style: italic } /* Comment */
@@ -68,3 +262,184 @@
 .highlight .vg { color: #40ffff } /* Name.Variable.Global */
 .highlight .vi { color: #40ffff } /* Name.Variable.Instance */
 .highlight .il { color: #3677a9 } /* Literal.Number.Integer.Long */
+
+</style>
+
+<!-- Preconnection for better performance -->
+<link rel="preconnect" href="https://api.github.com">
+<link rel="preconnect" href="https://giscus.app">
+<link rel="preconnect" href="https://github.githubassets.com">
+
+
+<!-- Google / Search Engine Tags -->
+<meta itemprop="name" content="LUMT | List of useful Minecraft tools">
+<meta name="description" content="Blog posts, various list, and a list of useful Minecraft tools">
+<meta itemprop="image" content="https://raw.githubusercontent.com/Queizen30/lumt/main/data/media/logo-circle.webp">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://lumt.qu30.qzz.io">
+<meta property="og:type" content="website">
+<meta property="og:title" content="LUMT | List of useful Minecraft tools">
+<meta property="og:description" content="Blog posts, various list, and a list of useful Minecraft tools">
+<meta property="og:image" content="https://raw.githubusercontent.com/Queizen30/lumt/main/data/media/logo-circle.webp">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="LUMT | List of useful Minecraft tools">
+<meta name="twitter:description" content="Blog posts, various list, and a list of useful Minecraft tools">
+<meta name="twitter:creator" content="@Queizen30">
+<meta name="twitter:site" content="@Queizen30">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/Queizen30/lumt/main/data/media/logo-circle.webp">
+
+
+<!-- Apple Meta tags-->
+<meta name='apple-mobile-web-app-status-bar-style' content='black'>
+<link rel="apple-touch-icon" href="https://raw.githubusercontent.com/Queizen30/lumt/main/data/media/logo-circle.webp">
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDGB25FC" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="main-container">
+        <div class="nav-container">
+    <div class="logo-container"><img src="/data/media/logo-circle-small.webp" alt="logo" width="30" height="30">LUMT</div>
+    <h4><strong>Primary</strong></h4>
+    <a href="/">Home</a><br>
+    <a href="/about.md">About</a><br>
+    <a href="/lumt">LUMT</a><br>
+    <a href="/a/">Blog</a>
+
+    <h4><strong>Other</strong></h4>
+    <a href="/contributors">Contributors</a><br>
+    <a href="/a/changelog">Changelog</a>
+    
+</div>
+
+        <div class="content-container">
+
+            <hr class="mobile-hr">
+            <h1></h1>
+            .highlight pre { background-color: #404040 }
+.highlight .hll { background-color: #404040 }
+.highlight .c { color: #999999; font-style: italic } /* Comment */
+.highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+.highlight .g { color: #d0d0d0 } /* Generic */
+.highlight .k { color: #6ab825; font-weight: bold } /* Keyword */
+.highlight .l { color: #d0d0d0 } /* Literal */
+.highlight .n { color: #d0d0d0 } /* Name */
+.highlight .o { color: #d0d0d0 } /* Operator */
+.highlight .x { color: #d0d0d0 } /* Other */
+.highlight .p { color: #d0d0d0 } /* Punctuation */
+.highlight .cm { color: #999999; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #cd2828; font-weight: bold } /* Comment.Preproc */
+.highlight .c1 { color: #999999; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #e50808; font-weight: bold; background-color: #520000 } /* Comment.Special */
+.highlight .gd { color: #d22323 } /* Generic.Deleted */
+.highlight .ge { color: #d0d0d0; font-style: italic } /* Generic.Emph */
+.highlight .gr { color: #d22323 } /* Generic.Error */
+.highlight .gh { color: #ffffff; font-weight: bold } /* Generic.Heading */
+.highlight .gi { color: #589819 } /* Generic.Inserted */
+.highlight .go { color: #cccccc } /* Generic.Output */
+.highlight .gp { color: #aaaaaa } /* Generic.Prompt */
+.highlight .gs { color: #d0d0d0; font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #ffffff; text-decoration: underline } /* Generic.Subheading */
+.highlight .gt { color: #d22323 } /* Generic.Traceback */
+.highlight .kc { color: #6ab825; font-weight: bold } /* Keyword.Constant */
+.highlight .kd { color: #6ab825; font-weight: bold } /* Keyword.Declaration */
+.highlight .kn { color: #6ab825; font-weight: bold } /* Keyword.Namespace */
+.highlight .kp { color: #6ab825 } /* Keyword.Pseudo */
+.highlight .kr { color: #6ab825; font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #6ab825; font-weight: bold } /* Keyword.Type */
+.highlight .ld { color: #d0d0d0 } /* Literal.Date */
+.highlight .m { color: #3677a9 } /* Literal.Number */
+.highlight .s { color: #ed9d13 } /* Literal.String */
+.highlight .na { color: #bbbbbb } /* Name.Attribute */
+.highlight .nb { color: #24909d } /* Name.Builtin */
+.highlight .nc { color: #447fcf; text-decoration: underline } /* Name.Class */
+.highlight .no { color: #40ffff } /* Name.Constant */
+.highlight .nd { color: #ffa500 } /* Name.Decorator */
+.highlight .ni { color: #d0d0d0 } /* Name.Entity */
+.highlight .ne { color: #bbbbbb } /* Name.Exception */
+.highlight .nf { color: #447fcf } /* Name.Function */
+.highlight .nl { color: #d0d0d0 } /* Name.Label */
+.highlight .nn { color: #447fcf; text-decoration: underline } /* Name.Namespace */
+.highlight .nx { color: #d0d0d0 } /* Name.Other */
+.highlight .py { color: #d0d0d0 } /* Name.Property */
+.highlight .nt { color: #6ab825; font-weight: bold } /* Name.Tag */
+.highlight .nv { color: #40ffff } /* Name.Variable */
+.highlight .ow { color: #6ab825; font-weight: bold } /* Operator.Word */
+.highlight .w { color: #666666 } /* Text.Whitespace */
+.highlight .mf { color: #3677a9 } /* Literal.Number.Float */
+.highlight .mh { color: #3677a9 } /* Literal.Number.Hex */
+.highlight .mi { color: #3677a9 } /* Literal.Number.Integer */
+.highlight .mo { color: #3677a9 } /* Literal.Number.Oct */
+.highlight .sb { color: #ed9d13 } /* Literal.String.Backtick */
+.highlight .sc { color: #ed9d13 } /* Literal.String.Char */
+.highlight .sd { color: #ed9d13 } /* Literal.String.Doc */
+.highlight .s2 { color: #ed9d13 } /* Literal.String.Double */
+.highlight .se { color: #ed9d13 } /* Literal.String.Escape */
+.highlight .sh { color: #ed9d13 } /* Literal.String.Heredoc */
+.highlight .si { color: #ed9d13 } /* Literal.String.Interpol */
+.highlight .sx { color: #ffa500 } /* Literal.String.Other */
+.highlight .sr { color: #ed9d13 } /* Literal.String.Regex */
+.highlight .s1 { color: #ed9d13 } /* Literal.String.Single */
+.highlight .ss { color: #ed9d13 } /* Literal.String.Symbol */
+.highlight .bp { color: #24909d } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #40ffff } /* Name.Variable.Class */
+.highlight .vg { color: #40ffff } /* Name.Variable.Global */
+.highlight .vi { color: #40ffff } /* Name.Variable.Instance */
+.highlight .il { color: #3677a9 } /* Literal.Number.Integer.Long */
+
+            <script src="https://giscus.app/client.js"
+        data-repo="queizen30/lumt"
+        data-repo-id="R_kgDOQuT8vg"
+        data-category="General"
+        data-category-id="DIC_kwDOQuT8vs4C0Z1N"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+            <footer class="footer">
+    <i>
+        <p>Note: This website is still in development.</p>
+        <p>This site was <a href="" id="openCommitA">last built</a> on <span id="lastCommitDateSpan"></span>.</p>
+    </i>
+</footer>
+
+<!-- Include Momentjs, a javacript date/time library-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js">
+
+</script>
+
+<script>
+    async function getLastCommit() {
+        const response = await fetch("https://api.github.com/repos/Queizen30/lumt/branches/main");
+        const lastCommitData = await response.json();
+
+        const lastCommitSha = lastCommitData.commit.sha;
+        let lastCommitDate = lastCommitData.commit.commit.committer.date;
+
+        // format date
+        lastCommitDate = moment(lastCommitDate).format("dd, MMM Do YYYY, h:mm:ss a");
+
+        document.getElementById("lastCommitDateSpan").innerText = lastCommitDate;
+        document.getElementById("openCommitA").href = `https://github.com/Queizen30/lumt/commit/${lastCommitSha}`;
+    }
+
+    getLastCommit();
+</script>
+        </div>
+    </div>
+</body>
+</html>

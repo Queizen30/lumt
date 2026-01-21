@@ -1,0 +1,154 @@
+---
+---
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+* {
+    text-underline-offset: 3px;
+}
+
+body {
+    
+    background-color: #0f0f0f;
+    color: #f5f5f5;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.main-container {
+    width: 100%;
+    max-width: calc(800px - (30px * 2));
+    margin: 0 auto;
+    padding: 0 1.25rem;
+    box-sizing: border-box;
+}
+
+a {
+    color: #a5a5a5;
+}
+
+a:hover {
+    text-decoration: underline dotted;
+    color: #fff;
+}
+
+.nav-container {
+    width: 10vw;
+    height: 100vh;
+    margin: 0 20px 10px 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+
+    position: fixed;
+}
+
+.nav-container h4 {
+    margin-bottom: 5px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.content-container {
+    margin-left: 15vw;
+    height: fit-content;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-container img {
+    margin: 10px;
+}
+
+.footer {
+    text-align: center;
+    padding: 8px;
+}
+
+.mobile-hr {
+    display: none;
+}
+
+.posts-container {
+    margin: 10px;
+    padding: 2px 10px;
+    background-color: #1f1f1f;
+    border-radius: 5px;
+}
+
+
+.posts-container * {
+    background-color: #1f1f1f;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.posts-container h3 {
+    margin: 0px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+}
+
+.posts-container *:not(a):hover {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.posts-container p {
+    margin: 0px;
+}
+
+.posts-container a:hover {
+    color: #e3e3e3;
+}
+
+.tags:not(:empty) {
+    display: inline-block;
+    background-color: #2f2f2f;
+    padding: 3px 3px 2px;
+    margin: 5px 3px 5px 0px;
+    font-weight: 600;
+    font-family: "Source Code Pro", monospace;
+    font-size: 0.9em;
+}
+
+blockquote {
+    border-left: 5px solid #ececec;
+    background-color: #0f0f11;
+    margin: 1.5em 10px;
+    padding: 1px 10px 1px 20px;
+}
+
+pre {
+    margin: 2em 10px 2em;
+    padding: 5px 10px 5px 20px;
+    border-radius: 3px;
+    border-left: 3px solid #f36d33;
+}
+
+:not(pre) > code {
+    background-color: #2f2f2f;
+    padding: 0.1em 0.2em;
+    border-radius: 3px;
+    font-family: "Source Code Pro", monospace;
+    font-size: 14px;
+}
+
+
+{% include css/mobile.css %}
+{% include css/native.css %}
