@@ -1,0 +1,11 @@
+{% for post in site.a %}
+  {% if post.hidden != true %}
+   <div style="display: block;" class="posts-container">
+   <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3> <br>
+   <p>{{ post.description }}</p>
+   {% for tag in post.tags %}
+     <span class="tags">{{ tag }}</span>
+   {% endfor %}
+   </div>
+  {% endif %}
+{% endfor %}

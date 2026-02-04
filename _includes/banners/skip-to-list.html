@@ -1,0 +1,37 @@
+<style>
+    .banner-container-design {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background: #f36d33;
+        border-radius: 12px;
+        padding: 16px 24px;
+        margin: 20px 0;
+    }
+
+    .banner-container-design p {
+        margin: 0;
+        font-weight: 600;
+        font-size: 1.05rem;
+    }
+
+    .banner-btn-design {
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    @media (max-width: 480px) {
+        .banner-container-design {
+            flex-direction: column;
+            gap: 12px;
+            text-align: center;
+        }
+    }
+</style>
+
+<div class="banner-container-design">
+    <p>Looking for the list?</p>
+    <a href="/lumt"><button class="banner-btn-design">Jump to list →</button></a>
+</div>
