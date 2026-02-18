@@ -8,6 +8,9 @@ You will only be listed here when [directly contacting me](/a/directly-contactin
 - [PapaZ810](https://github.com/PapaZ810) (First contributor creating an issue on GitHub)
   - [DiscoPanel, Crafty Control](https://github.com/Queizen30/lumt/issues/5)
 
+- [Fy17](https://github.com/FySjutton)
+  -[MinecraftUtils](https://github.com/Queizen30/lumt/issues/10)
+
 
 - [MinecraftPlayer799](https://www.reddit.com/user/MinecraftPlayer799/)
   - [Moddery](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw5y465/) (Creator)

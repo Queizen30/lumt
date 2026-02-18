@@ -18,6 +18,8 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
     - [Base Game](#base-game)
     - [Archives](#archives)
     - [Tutorials](#tutorials)
+    - [Statistics](#statistics)
+    - [Other](#other-in-wikis)
 - [Inspiritaion](#inspiration)
     - [Building](#building)
     - [Things to do when bored](#things-to-do-when-bored)
@@ -101,6 +103,8 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [MCTiers](https://mctiers.com/) - Minecraft PvP Leaderboards
 - [Minecraft Timeline](https://minecraft-timeline.github.io/) - A timeline of updates over the years, also see [here](https://minecraft.wiki/w/Java_Edition_version_history) or [here](https://minecraft.wiki/w/Bedrock_Edition_version_history) for BE. [Here's](https://www.digminecraft.com/version_history/) another one
 - [Unobtainibles BE](https://docs.google.com/document/u/0/d/e/2PACX-1vS1IwFjVyqJHJGYZtCHvwBJTyXw3rrIFuz27NOoerANvuVedYBKNPTTFOkDAQbWxPvsanoWaGoZHN9h/pub?pli=1) - Unobtainable - Version History/Bedrock Edition, Java Edition & Xbox 360 Edition
+- [MC Optimization Guide](https://github.com/Polytetrafluoroethylene-PTFE/MC-Optimization-Guide)
+- [List of every obtainable](https://docs.google.com/spreadsheets/d/1qLFGzaMzcHHM5IPucpbnwKrgxVsrjtA1jlsONHctOeo/)
 
 ## Archives
 - [MCAssets](https://mcasset.cloud/latest) - Browse Minecraft assets
@@ -117,6 +121,15 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [JSON Usage and Syntax in Commands](https://www.minecraftforum.net/forums/minecraft-java-edition/redstone-discussion-and/351959-1-12-json-text-component-for-tellraw-title-books) - Last updated 1.12
 - [Tutorials for the default launcher](#tutorials-for-the-default-launcher)
 - [Glass Mix Gradient](https://www.planetminecraft.com/project/glass-mix-gradient-fog-water-etc-color-guide/) - Examples [here](https://imgur.com/a/glass-mix-two-tone-glass-mixing-oBXIIoM)
+- [Starting a Successful Minecraft Server from Scratch](https://www.reddit.com/r/admincraft/comments/gbyl2x/guide_starting_a_successful_minecraft_server_from/)
+- [Places to advertise your server](https://www.reddit.com/r/admincraft/comments/18s2z6/places_to_advertise_your_server/)
+
+## Statistics
+- [Minecraft Marketplace Stats](https://mcmarketstats.miste.fr/) - See all kinds of stats about the marketplace (takes a bit to load)
+
+### Other
+{: #other-in-wikis}
+- [List of Minecraft clones](https://www.reddit.com/r/Minecraft/comments/lx5g3/complete_list_of_minecraft_clones/)
 
 # Inspiration
 
@@ -277,6 +290,9 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [r/Minecraft_Survival](https://www.reddit.com/r/Minecraft_Survival/)
 - [r/technicalminecraft](https://www.reddit.com/r/technicalminecraft/) - Everything from memes to mechanics
 - [More...](https://www.reddit.com/r/Minecraft/wiki/related/)
+
+## Other platforms
+- [Modbay](https://modbay.org/) - A social media platform for mod developers
 
 # Servers
 
@@ -450,6 +466,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Shape Generator](https://www.domegenmc.com/) - Visualize domes, cones, and layers with on-canvas controls
 - [Pixel Shape Generator](https://cquinn.dev/pixel-shape-generator/) - A tool for generating a variety of pixelated shapes
 - [Another Shape Generator](https://new.oranj.io/sphere/)
+- [Minecraft Heads](https://minecraft-heads.com/) - A database containing thousands of heads for decorating your world
 
 ### Enchanting and anvils
 - [Anvil enchanting optimizer](https://enchantmentoptimization.vercel.app/) - Optimize your enchanting in anvils to lose as less XP as possible
@@ -474,6 +491,8 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 
 ### Other
 - [MC Utils](https://mcutils.com/) - Community powered Minecraft utilities for developers, builders and players
+- [MinecraftUtils](https://minecraftutils.com/) - A collection of calculators, generators, utilities and other references
+- [CraftQuiver](https://craftquiver.com/) - Another tools website
 - [MCDF Tools and Ressources](https://mcdf-tools.github.io/)
 - [Cape Studio](https://www.stroepwafel.au/cape-studio) - Turn your capes into a single, shareable image
 - [PMC Banner Editor](https://www.planetminecraft.com/banner/) - Allows you to create Minecraft banner designs with all the patterns and colors from the game + Massive banner library

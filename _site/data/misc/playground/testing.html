@@ -171,6 +171,20 @@ pre {
     font-size: 14px;
 }
 
+a[target="_blank"]::after {
+  content: url("data:image/svg+xml,%3Csvg viewBox='0 0 7 7' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1.04261 6.80966L0.377841 6.14489L5.32102 1.19318H1.50284L1.51136 0.272727H6.90625V5.67614H5.97727L5.9858 1.85795L1.04261 6.80966Z' fill='black'/%3E%3C/svg%3E%0A");
+  display: inline-block;
+  height: 0.5em;
+  padding-inline: 0.2em;
+  aspect-ratio: 1;
+  line-height: 1;
+  vertical-align: text-top;
+
+  @media (prefers-color-scheme: dark) {
+    filter: invert(100%);
+  }
+}
+
 
 @media (max-width: 800px) {
     .nav-container {
@@ -192,6 +206,11 @@ pre {
     }
 
     .mobile-hr {display: block;}
+
+    pre {
+    margin: 2em 10px 2em;
+    overflow-x: auto;
+    }
 }
 .highlight pre { background-color: #404040 }
 .highlight .hll { background-color: #404040 }
@@ -330,6 +349,12 @@ pre {
 
 <span class="nx">console</span><span class="p">.</span><span class="nf">log</span><span class="p">(</span><span class="nx">greeting</span><span class="p">);</span></code></pre></figure>
 
+<p><a href="https://example.org/" target="_blank">external link</a></p>
+
+<p>somewhere in this text (you’ll have to find where) there’s a spooky little <a href="https://example.org/" target="_blank">external link</a> that goes to the example website (<a href="https://example.org/">https://example.org/</a>)</p>
+
+<p><code class="language-plaintext highlighter-rouge">a super long code tag to test if overflow-x: auto also thinks this should be scrollable on mobile</code></p>
+
 <blockquote>
   <p><em>This is some cool blockquote that complains about dogs, because cats are better.</em></p>
 
@@ -340,16 +365,14 @@ pre {
   <p>And heres a nested blockquote:</p>
 
   <blockquote>
-    <p>He ate it bit for bit:</p>
-    <blockquote>
-      <p><strong>Me:</strong> I’m really sorry,<br />
-my dog ate my homework<br />
-<strong>Professor:</strong> Your dog ate your<br />
-coding assignment?<br />
-<strong>Me:</strong><br />
-<strong>Professor:</strong><br />
-<strong>Me:</strong> it took him a couple bytes</p>
-    </blockquote>
+    <p>He ate it bit for bit:
+&gt; <strong>Me:</strong> I’m really sorry,<br />
+&gt; my dog ate my homework<br />
+&gt; <strong>Professor:</strong> Your dog ate your<br />
+&gt; coding assignment?<br />
+&gt; <strong>Me:</strong><br />
+&gt; <strong>Professor:</strong><br />
+&gt; <strong>Me:</strong> it took him a couple bytes</p>
 
     <p>– From <a href="https://www.reddit.com/r/ProgrammerDadJokes/comments/bazz75/he_ate_it_bit_for_bit/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button">this</a> Reddit post</p>
   </blockquote>

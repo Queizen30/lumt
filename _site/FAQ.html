@@ -171,6 +171,20 @@ pre {
     font-size: 14px;
 }
 
+a[target="_blank"]::after {
+  content: url("data:image/svg+xml,%3Csvg viewBox='0 0 7 7' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1.04261 6.80966L0.377841 6.14489L5.32102 1.19318H1.50284L1.51136 0.272727H6.90625V5.67614H5.97727L5.9858 1.85795L1.04261 6.80966Z' fill='black'/%3E%3C/svg%3E%0A");
+  display: inline-block;
+  height: 0.5em;
+  padding-inline: 0.2em;
+  aspect-ratio: 1;
+  line-height: 1;
+  vertical-align: text-top;
+
+  @media (prefers-color-scheme: dark) {
+    filter: invert(100%);
+  }
+}
+
 
 @media (max-width: 800px) {
     .nav-container {
@@ -192,6 +206,11 @@ pre {
     }
 
     .mobile-hr {display: block;}
+
+    pre {
+    margin: 2em 10px 2em;
+    overflow-x: auto;
+    }
 }
 .highlight pre { background-color: #404040 }
 .highlight .hll { background-color: #404040 }
@@ -325,28 +344,30 @@ pre {
                 <hr class="mobile-hr">
                 <h1>FAQ</h1>
                 <h3 id="i-appreciate-your-work-so-much-what-can-i-do-to-support-you-and-lumt">I appreciate your work <strong>so</strong> much, what can I do to support you and LUMT?</h3>
-<p>LUMT is a non-profit project, wich means that I don’t want to make any money with it while also trying to not lose any. Although you can still support me by doing one or multiple things on this list:</p>
-<ul>
-  <li>Give this repository a star on <a href="https;//github.com/queizen30/lumt">GitHub</a></li>
-  <li>Follow me on <a href="https://github.com/Queizenn30">GitHub</a></li>
-  <li><a href="/a/contribute">Contribute</a> to LUMT
-    <ul>
-      <li>Create a request for a new item</li>
-      <li>Add a search bar (this would be <strong>so awesome</strong>)</li>
-      <li>Add a blog post</li>
-      <li>Something other</li>
-    </ul>
-  </li>
-  <li>Become a <a href="/a/become-supporter">Supporter</a></li>
-  <li>If you mind spending a few dollars
-    <ul>
-      <li>Buy a domain for LUMT (See <a href="/a/buy-lumt-a-domain">here</a>)</li>
-    </ul>
-  </li>
-</ul>
+<p>LUMT is a non-profit project, wich means that I don’t want to make any money with it while also trying to not lose any. Although you can still support me by doing one or multiple things on this list:
+- Give this repository a star on <a href="https;//github.com/queizen30/lumt">GitHub</a>
+- Follow me on <a href="https://github.com/Queizenn30">GitHub</a>
+- <a href="/a/contribute">Contribute</a> to LUMT
+    - Create a request for a new item
+    - Add a search bar (this would be <strong>so awesome</strong>)
+    - Add a blog post
+    - Something other
+- Become a <a href="/a/become-supporter">Supporter</a>
+- If you mind spending a few dollars
+    - Buy a domain for LUMT (See <a href="/a/buy-lumt-a-domain">here</a>)</p>
 
 <h3 id="how-do-you-manage-this-site">How do you manage this site?</h3>
-<p>I use GitHub Pages for hosting, and a free domain for the domain. See <a href="/a/how-does-lumt-work">this</a>.</p>
+<p>I use GitHub Pages for hosting, and a free domain for the domain. See <a href="/a/how-does-lumt-work">this blog article</a>.</p>
+
+<h3 id="whats-the-purpose-of-lumt">What’s the purpose of LUMT?</h3>
+<p>It’s defenitly not the best user experience. LUMT is a useful resource if you know how to use it. Instead of adding multiple tools from one website into LUMT, I just add the entire website. You’ll have to find the use of the website yourself.
+Basicly, it’s just <em>finding</em> the websites and not being the <em>most useful</em> tool for users. (Although thats the second purpose)</p>
+
+<h3 id="how-do-you-find-all-the-tools">How do you find all the tools?</h3>
+<p>Mostly browing through reddit, or scrolling on Google until I think I should have reached the end by now. (Spoiler: I never do.)
+Sometimes I also find myself browsing through old dusty forum articles. (Did you know PlanetMinecraft has <a href="https://www.planetminecraft.com/forums/toc/">a forum</a>?)
+<!-- A few times I tell my agent to "FIND THE STUPID UNKNOWN WEBSITEs YOU PLONKER"...
+okay, this is definitly getting commented out. --></p>
 
                 <script src="https://giscus.app/client.js"
         data-repo="queizen30/lumt"

@@ -18,4 +18,9 @@
     }
 
     .mobile-hr {display: block;}
+
+    pre {
+    margin: 2em 10px 2em;
+    overflow-x: auto;
+    }
 }

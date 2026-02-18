@@ -171,6 +171,20 @@ pre {
     font-size: 14px;
 }
 
+a[target="_blank"]::after {
+  content: url("data:image/svg+xml,%3Csvg viewBox='0 0 7 7' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1.04261 6.80966L0.377841 6.14489L5.32102 1.19318H1.50284L1.51136 0.272727H6.90625V5.67614H5.97727L5.9858 1.85795L1.04261 6.80966Z' fill='black'/%3E%3C/svg%3E%0A");
+  display: inline-block;
+  height: 0.5em;
+  padding-inline: 0.2em;
+  aspect-ratio: 1;
+  line-height: 1;
+  vertical-align: text-top;
+
+  @media (prefers-color-scheme: dark) {
+    filter: invert(100%);
+  }
+}
+
 
 @media (max-width: 800px) {
     .nav-container {
@@ -192,6 +206,11 @@ pre {
     }
 
     .mobile-hr {display: block;}
+
+    pre {
+    margin: 2em 10px 2em;
+    overflow-x: auto;
+    }
 }
 .highlight pre { background-color: #404040 }
 .highlight .hll { background-color: #404040 }
@@ -342,6 +361,8 @@ pre {
       <li><a href="#base-game">Base Game</a></li>
       <li><a href="#archives">Archives</a></li>
       <li><a href="#tutorials">Tutorials</a></li>
+      <li><a href="#statistics">Statistics</a></li>
+      <li><a href="#other-in-wikis">Other</a></li>
     </ul>
   </li>
   <li><a href="#inspiration">Inspiritaion</a>
@@ -477,6 +498,8 @@ pre {
   <li><a href="https://mctiers.com/">MCTiers</a> - Minecraft PvP Leaderboards</li>
   <li><a href="https://minecraft-timeline.github.io/">Minecraft Timeline</a> - A timeline of updates over the years, also see <a href="https://minecraft.wiki/w/Java_Edition_version_history">here</a> or <a href="https://minecraft.wiki/w/Bedrock_Edition_version_history">here</a> for BE. <a href="https://www.digminecraft.com/version_history/">Here’s</a> another one</li>
   <li><a href="https://docs.google.com/document/u/0/d/e/2PACX-1vS1IwFjVyqJHJGYZtCHvwBJTyXw3rrIFuz27NOoerANvuVedYBKNPTTFOkDAQbWxPvsanoWaGoZHN9h/pub?pli=1">Unobtainibles BE</a> - Unobtainable - Version History/Bedrock Edition, Java Edition &amp; Xbox 360 Edition</li>
+  <li><a href="https://github.com/Polytetrafluoroethylene-PTFE/MC-Optimization-Guide">MC Optimization Guide</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1qLFGzaMzcHHM5IPucpbnwKrgxVsrjtA1jlsONHctOeo/">List of every obtainable</a></li>
 </ul>
 
 <h2 id="archives">Archives</h2>
@@ -497,6 +520,18 @@ pre {
   <li><a href="https://www.minecraftforum.net/forums/minecraft-java-edition/redstone-discussion-and/351959-1-12-json-text-component-for-tellraw-title-books">JSON Usage and Syntax in Commands</a> - Last updated 1.12</li>
   <li><a href="#tutorials-for-the-default-launcher">Tutorials for the default launcher</a></li>
   <li><a href="https://www.planetminecraft.com/project/glass-mix-gradient-fog-water-etc-color-guide/">Glass Mix Gradient</a> - Examples <a href="https://imgur.com/a/glass-mix-two-tone-glass-mixing-oBXIIoM">here</a></li>
+  <li><a href="https://www.reddit.com/r/admincraft/comments/gbyl2x/guide_starting_a_successful_minecraft_server_from/">Starting a Successful Minecraft Server from Scratch</a></li>
+  <li><a href="https://www.reddit.com/r/admincraft/comments/18s2z6/places_to_advertise_your_server/">Places to advertise your server</a></li>
+</ul>
+
+<h2 id="statistics">Statistics</h2>
+<ul>
+  <li><a href="https://mcmarketstats.miste.fr/">Minecraft Marketplace Stats</a> - See all kinds of stats about the marketplace (takes a bit to load)</li>
+</ul>
+
+<h3 id="other-in-wikis">Other</h3>
+<ul>
+  <li><a href="https://www.reddit.com/r/Minecraft/comments/lx5g3/complete_list_of_minecraft_clones/">List of Minecraft clones</a></li>
 </ul>
 
 <h1 id="inspiration">Inspiration</h1>
@@ -697,6 +732,11 @@ pre {
   <li><a href="https://www.reddit.com/r/Minecraft/wiki/related/">More…</a></li>
 </ul>
 
+<h2 id="other-platforms">Other platforms</h2>
+<ul>
+  <li><a href="https://modbay.org/">Modbay</a> - A social media platform for mod developers</li>
+</ul>
+
 <h1 id="servers">Servers</h1>
 
 <h2 id="server-software-1">Server Software</h2>
@@ -799,7 +839,7 @@ pre {
   <li><a href="https://notepad-plus-plus.org/">Notepad++</a> - A editor that allows you to edit most Minecraft files that the normal editor can’t edit</li>
 </ul>
 
-<h2 id="3d-editors">3D Editors</h2>
+<h2 id="d-editors">3D Editors</h2>
 <ul>
   <li><a href="https://blockbench.net/">Blockbench</a> - Great for resource pack devs, also has web app</li>
   <li><a href="https://www.mineimatorforums.com/index.php?/topic/90789-mine-imator-202/">Mine-imator</a> - Animation software</li>
@@ -917,6 +957,7 @@ pre {
   <li><a href="https://www.domegenmc.com/">Shape Generator</a> - Visualize domes, cones, and layers with on-canvas controls</li>
   <li><a href="https://cquinn.dev/pixel-shape-generator/">Pixel Shape Generator</a> - A tool for generating a variety of pixelated shapes</li>
   <li><a href="https://new.oranj.io/sphere/">Another Shape Generator</a></li>
+  <li><a href="https://minecraft-heads.com/">Minecraft Heads</a> - A database containing thousands of heads for decorating your world</li>
 </ul>
 
 <h3 id="enchanting-and-anvils">Enchanting and anvils</h3>
@@ -953,6 +994,8 @@ pre {
 <h3 id="other-2">Other</h3>
 <ul>
   <li><a href="https://mcutils.com/">MC Utils</a> - Community powered Minecraft utilities for developers, builders and players</li>
+  <li><a href="https://minecraftutils.com/">MinecraftUtils</a> - A collection of calculators, generators, utilities and other references</li>
+  <li><a href="https://craftquiver.com/">CraftQuiver</a> - Another tools website</li>
   <li><a href="https://mcdf-tools.github.io/">MCDF Tools and Ressources</a></li>
   <li><a href="https://www.stroepwafel.au/cape-studio">Cape Studio</a> - Turn your capes into a single, shareable image</li>
   <li><a href="https://www.planetminecraft.com/banner/">PMC Banner Editor</a> - Allows you to create Minecraft banner designs with all the patterns and colors from the game + Massive banner library</li>
@@ -1002,12 +1045,10 @@ pre {
 </ul>
 
 <h2 id="bugtrackers">Bugtrackers</h2>
-<p>(apperently theres a whole community on here, see <a href="#minecraft-subreddits">r/mojira</a>)</p>
-<ul>
-  <li><a href="https://bugs.mojang.com/">Mojira</a> - The official one</li>
-  <li><a href="https://mojira-viewer.jacobsjo.eu/">Mojira Viewer</a> - By <a href="https://github.com/jacobsjo">jacobsjo</a> (also made <a href="https://jacobsjo.eu/">these</a> tools), <a href="https://github.com/jacobsjo/mojira-viewer">open-source</a></li>
-  <li></li>
-</ul>
+<p>(apperently theres a whole community on here, see <a href="#minecraft-subreddits">r/mojira</a>)
+- <a href="https://bugs.mojang.com/">Mojira</a> - The official one
+- <a href="https://mojira-viewer.jacobsjo.eu/">Mojira Viewer</a> - By <a href="https://github.com/jacobsjo">jacobsjo</a> (also made <a href="https://jacobsjo.eu/">these</a> tools), <a href="https://github.com/jacobsjo/mojira-viewer">open-source</a>
+-</p>
 
 <h2 id="other-3">Other</h2>
 <ul>

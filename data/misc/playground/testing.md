@@ -10,6 +10,12 @@ const greeting = 'Hello, World!';
 console.log(greeting);
 {% endhighlight %}
 
+[external link](https://example.org/){:target="_blank"}
+
+somewhere in this text (you'll have to find where) there's a spooky little [external link](https://example.org/){:target="_blank"} that goes to the example website (<https://example.org/>)
+
+`a super long code tag to test if overflow-x: auto also thinks this should be scrollable on mobile`
+
 > _This is some cool blockquote that complains about dogs, because cats are better._  
 >  
 > -- Developer of LUMT, 19th of January 2026
