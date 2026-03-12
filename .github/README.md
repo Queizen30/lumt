@@ -1,5 +1,5 @@
 > [!WARNING]
-> This repository is **deprecated**. use [lumtmc/lumtmc](https;//github.com/lumtmc/lumtmc) instead.
+> This repository is **deprecated**. use [lumtmc/lumtmc](https://github.com/lumtmc/lumtmc) instead.
 
 [![Workflow Status](https://github.com/Queizen30/lumt/actions/workflows/static.yml/badge.svg)](https://github.com/Queizen30/lumt/actions/workflows/static.yml) [![License](https://img.shields.io/github/license/queizen30/lumt)](LICENSE) [![Repo badge](https://img.shields.io/badge/queizen30-lumt-blue?logo=github)](#) [![Pages site](https://img.shields.io/badge/pages-lumt.qu30.qzz.io-blue?logo=github)](https://lumt.qu30.qzz.io) ![GitHub last commit](https://img.shields.io/github/last-commit/queizen30/lumt)
 
